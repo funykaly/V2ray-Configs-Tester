@@ -1,2 +1,0 @@
-socks5://34.2.0.182:1080#%F0%9F%87%B2%F0%9F%87%BD+Mexico+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://34.2.6.70:1080#%F0%9F%87%B2%F0%9F%87%BD+Mexico+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
