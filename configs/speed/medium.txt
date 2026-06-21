@@ -1,6 +1,6 @@
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%8C%90+Unknown+-+Oslo+%F0%9F%9F%A0+170+%E2%9A%A12006.6KB%2Fs+VLESS
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%8C%90+Unknown+-+Oslo+%F0%9F%9F%A0+170+%E2%9A%A12006.6KB%2Fs+VLESS
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A11073.7KB%2Fs+HTTP
 http://160.238.65.5:3128#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A11494.3KB%2Fs+HTTP
 trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#%F0%9F%8C%90+Unknown+-+State+of+Vienna+%F0%9F%9F%A0+190+%E2%9A%A12480.7KB%2Fs+TROJAN
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%8C%90+Unknown+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A12817.0KB%2Fs+HYSTERIA2
-vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#%F0%9F%87%AE%F0%9F%87%B7+Iran+-+North+Holland+%F0%9F%9F%A1+350+%E2%9A%A12010.8KB%2Fs+VLESS
+vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#%F0%9F%87%AE%F0%9F%87%B7+Iran+-+North+Holland+%F0%9F%9F%A1+350+%E2%9A%A12010.8KB%2Fs+VLESS
