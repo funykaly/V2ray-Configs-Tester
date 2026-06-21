@@ -24,10 +24,11 @@ vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?flow=xtls-rprx-vi
 http://144.91.121.61:3129#%F0%9F%87%AB%F0%9F%87%B7+France+-+Grand+Est+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@146.235.16.191:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@149.28.142.169:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
-http://152.42.239.142:3128#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9F%94%B4+120+%E2%9A%A115.7KB%2Fs+HTTP
+http://152.42.239.142:3128#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A115.7KB%2Fs+HTTP
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.13.158:443?encryption=none&security=tls&sni=s5.868001.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=s5.868001.xyz&path=%2Fproxyip%3Dtw.william.us.ci#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
-http://167.86.95.198:3128#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Bavaria+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://167.86.95.198:3128#%F0%9F%8C%90+Unknown+-+Bavaria+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y@168.138.175.92:9888#%F0%9F%8C%90+Unknown+-+South+East+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4gLSDFjHNha2Eg8J+foSAyNjAg4pqhNS41S0IvcyBWTUVTUyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-socks4://168.144.41.8:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks4://168.144.41.8:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+http://173.212.246.157:3128#%F0%9F%87%AB%F0%9F%87%B7+France+-+Grand+Est+%F0%9F%94%B4+120+%E2%9A%A1105.9KB%2Fs+HTTP
