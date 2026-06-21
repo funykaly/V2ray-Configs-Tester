@@ -1,1 +1,4 @@
+socks5://195.19.50.226:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@31.184.198.96:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.wikihow.com&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%9F%A1+280+%E2%9A%A1n%2Fa+VLESS
+socks5://91.218.114.118:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+vmess://eyJhZGQiOiI5My45My44OS4xMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwY3MiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e38J+HuiBSdXNzaWEgLSBNb3Njb3cg8J+foCAxMzAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
