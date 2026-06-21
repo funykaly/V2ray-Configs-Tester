@@ -1,0 +1,1 @@
+trojan://humanity@www.ignitelimit.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A1+300+%E2%9A%A1n%2Fa+TROJAN
