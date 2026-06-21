@@ -1,1 +1,2 @@
 http://144.91.121.61:3129#%F0%9F%87%AB%F0%9F%87%B7+France+-+Grand+Est+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@62.210.172.148:443?alpn=http/1.1&encryption=none&host=t-panel.wasmer.app&path=/ws/9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&sni=t-panel.wasmer.app&type=ws#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%9F%A1+260+%E2%9A%A1n%2Fa+VLESS
