@@ -2,5 +2,6 @@ socks5://103.27.78.155:5555#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%
 socks5://103.36.11.18:8199#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+Banten+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://139.59.105.64:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
 socks4://168.144.41.8:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://18.139.224.252:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
+socks5://18.139.224.252:1080#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 socks5://185.233.203.60:1080#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://212.58.132.5:1080#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
