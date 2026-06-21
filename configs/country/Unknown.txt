@@ -24,3 +24,4 @@ http://152.42.239.142:3128#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E
 http://167.86.95.198:3128#%F0%9F%8C%90+Unknown+-+Bavaria+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y@168.138.175.92:9888#%F0%9F%8C%90+Unknown+-+South+East+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
 socks4://168.144.41.8:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#%F0%9F%8C%90+Unknown+-+State+of+Vienna+%F0%9F%9F%A0+190+%E2%9A%A12480.7KB%2Fs+TROJAN
