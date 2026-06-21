@@ -1,1 +1,1 @@
-vless://833f628c-1d6b-4dd1-89c9-40a8320f1a2c@144.31.159.84:443?flow=xtls-rprx-vision&fp=firefox&pbk=e3pn9C1M3g6zh0CMZS3L-GuDH71NNUcoy18quvlgfWw&security=reality&sid=165b0fe73e74&sni=www.nvidia.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+North+Rhine-Westphalia+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
+http://167.86.95.198:3128#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Bavaria+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
