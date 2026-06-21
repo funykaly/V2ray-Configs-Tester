@@ -1,2 +1,1 @@
-socks5://144.124.227.88:3129#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://f5ed21e1-926c-4a5c-9951-8da239c0d445@nl.appcodes.ir:2026?security=reality&encryption=none&pbk=1pZz4shnro2xyuXc7MMSFseBbbuy1weo2QLclTDJ8Fo&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=db4a993c8bb355ba#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%9F%A1+350+%E2%9A%A12010.8KB%2Fs+VLESS
