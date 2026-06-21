@@ -1,0 +1,2 @@
+vless://EarnMoneyarz-ZoRoVpn@104.16.72.70:8443?path=/ZoRoVpn&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&fp=chrome&type=ws&allowInsecure=1&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%9F%A0+210+%E2%9A%A1882.4KB%2Fs+VLESS
+trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&headerType=none&type=tcp&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+TROJAN
