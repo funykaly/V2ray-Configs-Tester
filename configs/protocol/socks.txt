@@ -8,3 +8,5 @@ socks5://212.58.132.5:1080#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9
 socks5://43.133.37.149:1080#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A15.6KB%2Fs+SOCKS
 socks5://43.161.217.219:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://47.79.79.35:10808#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://5.45.118.209:1080#%F0%9F%87%AA%F0%9F%87%AA+Estonia+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
