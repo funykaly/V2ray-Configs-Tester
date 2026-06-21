@@ -1,0 +1,374 @@
+{
+  "sources": [
+    {
+      "name": "sample-subscription-1",
+      "type": "subscription",
+      "enabled": false,
+      "links": [
+        "https://example.com/subscription-1.txt"
+      ]
+    },
+    {
+      "name": "sample-subscription-2",
+      "type": "subscription",
+      "enabled": false,
+      "links": [
+        "https://example.com/subscription-2.txt"
+      ]
+    },
+    {
+      "name": "sample-telegram-1",
+      "type": "telegram",
+      "enabled": false,
+      "channel": "public_channel_one"
+    },
+    {
+      "name": "sample-telegram-2",
+      "type": "telegram",
+      "enabled": false,
+      "channel": "public_channel_two"
+    }
+  ],
+  "telegram": {
+    "api_id": 0,
+    "api_hash": "",
+    "session_name": "sentinel_session",
+    "use_web_only": true
+  },
+  "github": {
+    "enabled": false,
+    "token": "",
+    "repository": "",
+    "branch": "",
+    "base_path": "",
+    "sync_every_minutes": 15
+  },
+  "schedule": {
+    "source_check_every_minutes": 15,
+    "retest_every_hours": 24
+  },
+  "probes": {
+    "timeout_seconds": 8,
+    "ping_urls": [
+      "https://www.gstatic.com/generate_204",
+      "https://cp.cloudflare.com/generate_204"
+    ],
+    "speed_urls": [
+      "https://speed.cloudflare.com/__down?bytes=1048576"
+    ],
+    "security_probes": [
+      {
+        "name": "google-http-204",
+        "url": "http://connectivitycheck.gstatic.com/generate_204",
+        "method": "GET",
+        "headers": null,
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 204,
+        "expect_content_type": "",
+        "expect_contains": null,
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype",
+          "window.location",
+          "document.location",
+          "http-equiv",
+          "captcha",
+          "access denied",
+          "fortigate",
+          "mikrotik"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 0,
+        "expect_max_bytes": 0,
+        "reject_redirect": true,
+        "max_redirects": 0,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "portal-204",
+        "critical": true,
+        "penalty": 170
+      },
+      {
+        "name": "msft-http-connect",
+        "url": "http://www.msftconnecttest.com/connecttest.txt",
+        "method": "GET",
+        "headers": null,
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 200,
+        "expect_content_type": "text/plain",
+        "expect_contains": [
+          "Microsoft Connect Test"
+        ],
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype",
+          "window.location",
+          "document.location",
+          "http-equiv",
+          "captcha",
+          "access denied",
+          "fortigate",
+          "mikrotik"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 10,
+        "expect_max_bytes": 512,
+        "reject_redirect": true,
+        "max_redirects": 0,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "plain-http-text",
+        "critical": true,
+        "penalty": 170
+      },
+      {
+        "name": "google-204",
+        "url": "https://www.gstatic.com/generate_204",
+        "method": "GET",
+        "headers": null,
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 204,
+        "expect_content_type": "",
+        "expect_contains": null,
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype",
+          "window.location",
+          "document.location",
+          "http-equiv",
+          "captcha",
+          "access denied",
+          "fortigate",
+          "mikrotik"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 0,
+        "expect_max_bytes": 0,
+        "reject_redirect": true,
+        "max_redirects": 0,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "portal-204",
+        "critical": true,
+        "penalty": 120
+      },
+      {
+        "name": "cloudflare-204",
+        "url": "https://cp.cloudflare.com/generate_204",
+        "method": "GET",
+        "headers": null,
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 204,
+        "expect_content_type": "",
+        "expect_contains": null,
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype",
+          "window.location",
+          "document.location",
+          "http-equiv",
+          "captcha",
+          "access denied",
+          "fortigate",
+          "mikrotik"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 0,
+        "expect_max_bytes": 0,
+        "reject_redirect": true,
+        "max_redirects": 0,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "portal-204",
+        "critical": true,
+        "penalty": 120
+      },
+      {
+        "name": "cloudflare-trace",
+        "url": "https://www.cloudflare.com/cdn-cgi/trace",
+        "method": "GET",
+        "headers": {
+          "Accept": "text/plain"
+        },
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 200,
+        "expect_content_type": "text/plain",
+        "expect_contains": [
+          "ip=",
+          "h="
+        ],
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype",
+          "window.location",
+          "document.location"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 20,
+        "expect_max_bytes": 4096,
+        "reject_redirect": true,
+        "max_redirects": 1,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "trace-text",
+        "critical": true,
+        "penalty": 150
+      },
+      {
+        "name": "cloudflare-doh",
+        "url": "https://cloudflare-dns.com/dns-query?name=example.com\u0026type=A",
+        "method": "GET",
+        "headers": {
+          "Accept": "application/dns-json"
+        },
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 200,
+        "expect_content_type": "json",
+        "expect_contains": [
+          "Status",
+          "Answer"
+        ],
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 20,
+        "expect_max_bytes": 16384,
+        "reject_redirect": true,
+        "max_redirects": 1,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "dns-json",
+        "critical": true,
+        "penalty": 140
+      },
+      {
+        "name": "google-doh",
+        "url": "https://dns.google/resolve?name=example.com\u0026type=A",
+        "method": "GET",
+        "headers": null,
+        "expect_headers": null,
+        "reject_headers": null,
+        "expect_status": 200,
+        "expect_content_type": "json",
+        "expect_contains": [
+          "Status",
+          "Answer"
+        ],
+        "reject_contains": [
+          "\u003cscript",
+          "\u003chtml",
+          "\u003c!doctype"
+        ],
+        "expect_sha256": "",
+        "reject_sha256": null,
+        "expect_min_bytes": 20,
+        "expect_max_bytes": 16384,
+        "reject_redirect": true,
+        "max_redirects": 1,
+        "allowed_redirect_hosts": null,
+        "severity": "critical",
+        "compare_group": "dns-json",
+        "critical": true,
+        "penalty": 140
+      }
+    ],
+    "geo_lookup_urls": [
+      "http://ip-api.com/json/{ip}?fields=status,country,countryCode,regionName,query",
+      "https://ipwho.is/{ip}"
+    ],
+    "proxy_geo_urls": [
+      "http://ip-api.com/json/?fields=status,country,countryCode,regionName,query",
+      "https://ipwho.is/"
+    ],
+    "proxy_ip_urls": [
+      "https://www.cloudflare.com/cdn-cgi/trace",
+      "https://api.ipify.org?format=json",
+      "https://ipv4.icanhazip.com"
+    ],
+    "local_geo_db": "GeoLite2-Country.mmdb",
+    "local_geo_city_db": "GeoLite2-City.mmdb",
+    "speed_test_bytes": 1048576,
+    "fast_speed_mbps": 5,
+    "medium_speed_mbps": 1,
+    "enable_tcp_precheck": false,
+    "tcp_precheck_timeout_ms": 600,
+    "fallback_probe_urls": true,
+    "use_all_probe_urls": false,
+    "per_config_timeout_ms": 1200,
+    "core_startup_wait_ms": 250,
+    "security_probe_timeout_ms": 700,
+    "enable_proxy_geo_lookup": false
+  },
+  "cores": {
+    "xray_path": "xray_bin\\xray.exe",
+    "singbox_path": "singbox_bin\\sing-box.exe"
+  },
+  "logging": {
+    "console_verbose": true,
+    "directory": ".logs",
+    "sections": {
+      "core": {
+        "file_enabled": true
+      },
+      "geo": {
+        "file_enabled": true
+      },
+      "github": {
+        "file_enabled": true
+      },
+      "parsing": {
+        "file_enabled": true
+      },
+      "scheduler": {
+        "file_enabled": true
+      },
+      "security": {
+        "file_enabled": true
+      },
+      "source": {
+        "file_enabled": true
+      },
+      "telegram": {
+        "file_enabled": true
+      },
+      "testing": {
+        "file_enabled": true
+      }
+    }
+  },
+  "paths": {
+    "state_file": ".state/state.json",
+    "configs_dir": "configs",
+    "country_dir": "country",
+    "protocol_dir": "protocol",
+    "security_dir": "security",
+    "speed_dir": "speed",
+    "all_scraped_file": "configs\\all_scraped.txt",
+    "all_working_file": "configs\\all_working.txt",
+    "all_secure_file": "configs\\all_secure.txt",
+    "all_scraped_dir": "country",
+    "security_test_dir": "security",
+    "all_pinged_file": "configs\\all_working.txt",
+    "all_security_tested_file": "configs\\all_secure.txt"
+  }
+}
