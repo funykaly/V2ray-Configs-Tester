@@ -1,2 +1,0 @@
-vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yahoo.com&fp=chrome&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&sid=67e2075367998314&spx=/&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A117.8KB%2Fs+VLESS
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%9F%A1+270+%E2%9A%A110.1KB%2Fs+VLESS
