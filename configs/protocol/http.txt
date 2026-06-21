@@ -17,3 +17,4 @@ http://34.84.162.206:38080#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%
 http://54.255.119.3:9090#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+HTTP
 http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1274.3KB%2Fs+HTTP
 http://65.109.65.238:18080#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://8.219.97.248:80#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
