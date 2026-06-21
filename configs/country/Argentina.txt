@@ -1,0 +1,1 @@
+trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?type=tcp&security=tls&headerType=none&sni=130.94.107.242&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%B7+Argentina+-+Buenos+Aires+F.D.+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+TROJAN
