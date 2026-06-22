@@ -23,6 +23,7 @@ socks5://18.139.224.252:1080#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%
 socks5://185.233.203.60:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://185.86.78.19:3128#%F0%9F%8C%90+Unknown+-+Khmelnytskyi+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://195.19.50.226:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.220:25889#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
 socks5://206.123.156.222:32735#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A199.7KB%2Fs+SOCKS
 socks5://206.123.156.222:6361#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.229:7445#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
