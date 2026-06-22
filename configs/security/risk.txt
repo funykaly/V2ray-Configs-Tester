@@ -5,7 +5,6 @@ http://13.51.196.44:17625#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%
 http://13.60.163.108:31893#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1261.3KB%2Fs+HTTP
 http://13.60.181.61:13643#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://138.199.25.13:3906#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://144.124.227.88:3129#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://144.31.73.173:3128#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1895.8KB%2Fs+HTTP
 socks5://149.28.156.194:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A124.6KB%2Fs+SOCKS
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
@@ -33,8 +32,6 @@ socks5://212.58.132.5:1080#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9
 socks5://212.87.198.96:1080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://217.209.35.22:443#%F0%9F%8C%90+Unknown+-+V%C3%A4stra+G%C3%B6taland+County+%F0%9F%94%B4+120+%E2%9A%A13190.3KB%2Fs+HTTP
 http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1931.8KB%2Fs+HTTP
-http://34.2.0.182:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://34.2.6.70:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
 socks4://37.112.220.61:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Samara+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://41.57.136.174:8080#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -52,6 +49,6 @@ http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+1
 http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://8.219.97.248:80#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://87.255.28.101:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Jersey+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
