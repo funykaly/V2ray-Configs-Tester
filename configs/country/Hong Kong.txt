@@ -1,3 +1,4 @@
+http://203.90.233.11:8080#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A128.3KB%2Fs+HTTP
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@43.254.164.50:8443?&security=tls&fp=chrome&sni=s5.868001.xyz&type=ws&headerType=&host=s5.868001.xyz&path=%2Fproxyip%3Dtw.william.us.ci#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kwun+Tong+District+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
-socks5://47.82.65.57:1080#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
+socks5://47.82.65.57:1081#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 vless://b66d5953-8fed-4374-bf27-26dc07382b08@64.49.46.182:31435?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=firefox&pbk=a6ngMY9lSih2eDM81a6I0wXWxXYJly_gxQ1hpFhZOT8&sid=001dc5d28eae7554&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
