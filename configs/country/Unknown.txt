@@ -76,6 +76,7 @@ trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%8C%90+Unknown+-+St.-Petersburg+%F0%9F%9F%A0+200+%E2%9A%A1n%2Fa+VLESS
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%8C%90+Unknown+-+Riga+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://47.238.92.79:2080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 vless://a12b0d31-f599-498e-b76e-8558a14b766b@47.79.144.103:25242?encryption=none&security=none&type=ws&path=/a12b0d31#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 socks5://47.79.79.35:10808#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://5.45.118.209:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
