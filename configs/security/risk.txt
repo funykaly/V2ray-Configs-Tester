@@ -1,6 +1,4 @@
-http://1.231.81.166:3128#%F0%9F%8C%90+Unknown+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+HTTP
-http://103.28.37.131:3128#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://114.94.148.37:18080#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 http://129.226.92.241:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A175.6KB%2Fs+HTTP
 http://13.41.196.179:58910#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.51.196.44:17625#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -13,7 +11,6 @@ socks5://149.28.156.194:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 socks5://176.114.199.202:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Tver+Oblast+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+SOCKS
 http://185.86.78.19:3128#%F0%9F%8C%90+Unknown+-+Khmelnytskyi+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-socks5://195.19.50.226:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://195.245.238.86:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://203.90.233.11:8080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A128.3KB%2Fs+HTTP
 socks5://206.123.156.210:4818#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -33,7 +30,6 @@ socks5://206.123.156.233:6996#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+
 socks5://206.123.156.238:11500#%F0%9F%87%AA%F0%9F%87%B8+Spain+-+Madrid+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.240:4673#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://212.58.132.5:1080#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-http://212.58.132.5:8888#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 socks5://212.87.198.96:1080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://217.209.35.22:443#%F0%9F%8C%90+Unknown+-+V%C3%A4stra+G%C3%B6taland+County+%F0%9F%94%B4+120+%E2%9A%A13190.3KB%2Fs+HTTP
 http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1931.8KB%2Fs+HTTP
@@ -44,6 +40,7 @@ socks4://37.112.220.61:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Samara+Oblast+%F0%
 http://41.57.136.174:8080#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://43.153.82.179:8888#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://43.161.217.219:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+http://43.167.192.85:8080#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://45.76.177.35:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9F%94%B4+120+%E2%9A%A115.7KB%2Fs+SOCKS
 socks5://46.146.220.247:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Perm+Krai+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -56,7 +53,5 @@ http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E
 http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.219.97.248:80#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://85.237.206.150:1234#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
 socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://87.255.28.101:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Jersey+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://91.218.114.118:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
