@@ -10,8 +10,6 @@ http://185.86.78.19:3128#%F0%9F%8C%90+Unknown+-+Khmelnytskyi+Oblast+%F0%9F%94%B4
 http://203.90.233.11:8080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A128.3KB%2Fs+HTTP
 http://217.209.35.22:443#%F0%9F%8C%90+Unknown+-+V%C3%A4stra+G%C3%B6taland+County+%F0%9F%94%B4+120+%E2%9A%A13190.3KB%2Fs+HTTP
 http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1931.8KB%2Fs+HTTP
-http://34.2.0.182:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://34.2.6.70:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
 http://41.57.136.174:8080#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://43.153.82.179:8888#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -20,4 +18,4 @@ http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+1
 http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://8.219.97.248:80#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
