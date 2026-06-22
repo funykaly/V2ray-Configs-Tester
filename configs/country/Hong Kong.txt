@@ -1,1 +1,2 @@
+socks5://47.238.92.79:2080#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 vless://b66d5953-8fed-4374-bf27-26dc07382b08@64.49.46.182:31435?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=firefox&pbk=a6ngMY9lSih2eDM81a6I0wXWxXYJly_gxQ1hpFhZOT8&sid=001dc5d28eae7554&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
