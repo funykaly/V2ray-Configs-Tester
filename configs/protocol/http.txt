@@ -16,9 +16,8 @@ http://34.2.6.70:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2
 http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
 http://41.57.136.174:8080#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://43.153.82.179:8888#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+HTTP
+http://54.255.119.3:9090#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A132.3KB%2Fs+HTTP
 http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1274.3KB%2Fs+HTTP
-http://65.109.65.238:18080#%F0%9F%8C%90+Unknown+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://85.237.206.150:1234#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
