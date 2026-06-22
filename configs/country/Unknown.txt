@@ -46,10 +46,12 @@ socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A0+200+%E2%9A%A1177.5KB%2Fs+HYSTERIA2
 socks5://47.238.92.79:2080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 socks5://47.82.65.57:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
+socks5://47.82.65.57:1081#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 socks5://5.45.118.209:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://7bd180e8-1142-4387-93f5-03e8d750a896@5.78.26.104:443?path=/7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#%F0%9F%8C%90+Unknown+-+Oregon+%F0%9F%9F%A0+130+%E2%9A%A1n%2Fa+VLESS
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A132.3KB%2Fs+HTTP
 http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90+Unknown+-+West+Pomerania+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
@@ -58,7 +60,7 @@ vless://06287fd2-c6af-49ab-9e48-451bd0eee1d4@85.198.10.213:5050?security=none&en
 socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://e6c1e46a-334d-41c5-ac64-99b0961ed988@free1.hologate6299.com:37830?type=tcp&security=reality&pbk=5aZ8MeAPE-y3lYW4OlVl3y74LUn8bTOjEFK0waTn-mo&fp=chrome&sni=yahoo.com&sid=66e7ae1520&spx=%2F#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+350+%E2%9A%A175.5KB%2Fs+VLESS
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+240+%E2%9A%A13659.0KB%2Fs+HYSTERIA2
-vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=railway-production-b185.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=railway-production-b185.up.railway.app#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A1+350+%E2%9A%A154.8KB%2Fs+VLESS
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@railway-production-b185.up.railway.app:443?encryption=none&security=tls&sni=railway-production-b185.up.railway.app&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=railway-production-b185.up.railway.app&path=%2Fws#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A1+350+%E2%9A%A154.8KB%2Fs+VLESS
 vless://899b1131-5827-fc71-8d31-9d78605af533@rvg-production-300c.up.railway.app:443?security=tls&encryption=none&sni=rvg-production-300c.up.railway.app&alpn=http/1.1&fp=chrome&type=ws&host=rvg-production-300c.up.railway.app&path=/ws/899b1131-5827-fc71-8d31-9d78605af533&allow_insecure=0#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A1+250+%E2%9A%A154.8KB%2Fs+VLESS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90+Unknown+-+West+Pomerania+%F0%9F%9F%A1+350+%E2%9A%A1n%2Fa+VLESS
 vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90+Unknown+-+Almaty+%F0%9F%9F%A1+350+%E2%9A%A1352.4KB%2Fs+VLESS
