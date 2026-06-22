@@ -48,7 +48,7 @@ http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A
 http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A15.6KB%2Fs+HTTP
 vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+270+%E2%9A%A110.1KB%2Fs+VLESS
 socks5://18.139.224.252:1080#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&sni=185.126.236.190#%F0%9F%8C%90+Unknown+-+State+of+Vienna+%F0%9F%9F%A0+190+%E2%9A%A12480.7KB%2Fs+TROJAN
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#%F0%9F%8C%90+Unknown+-+State+of+Vienna+%F0%9F%9F%A0+190+%E2%9A%A12480.7KB%2Fs+TROJAN
 socks5://185.233.203.60:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://185.86.78.19:3128#%F0%9F%8C%90+Unknown+-+Khmelnytskyi+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://6aa91885-dc17-4d70-a58b-ccc29dd71b04@186.246.19.138:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=firefox&pbk=mimJ_uInBYERt8TayjrHu5Kmq4b1ko39G6WD72SUkGw&sid=75cf&type=tcp&headerType=none#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
