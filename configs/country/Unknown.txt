@@ -1,8 +1,5 @@
 http://1.231.81.166:3128#%F0%9F%8C%90+Unknown+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+HTTP
-socks5://103.27.78.155:5555#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A14.6KB%2Fs+SOCKS
 http://103.28.37.131:3128#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-vless://e1ea855f-d0c2-5ed2-a454-294bb73c0cee@104.16.72.70:8443?path=%2FZoRoVpn&security=tls&encryption=none&insecure=0&host=speedtest-chekhost-fastly.amuseftdomainroyal.com&type=ws&allowInsecure=0&sni=speedtest-chekhost-fastly.amuseftdomainroyal.com#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%9F%A0+210+%E2%9A%A1882.4KB%2Fs+VLESS
-trojan://humanity@104.18.152.225:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%87%AB%F0%9F%87%B7+Unknown+-+Ontario+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.26.15.137:443?encryption=none&security=tls&sni=shegeftihaaa.net&type=ws&host=shegeftihaaa.net&path=/rsedgws#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+VLESS
 vless://09d8ebf3-c4bb-4597-91e4-5cebfa593b7c@109.248.161.206:443?security=reality&encryption=none&pbk=oqrU5jM7qTRqjb1N-cakTOyTtVU3Zs9lmet-irbr8TU&headerType=&fp=chrome&spx=%2FabJKOaPacyi1dli&type=tcp&sni=www.yahoo.com&sid=6443cb87ea#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 http://113.160.132.26:8080#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+HTTP
