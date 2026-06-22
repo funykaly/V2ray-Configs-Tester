@@ -1,2 +1,1 @@
-trojan://humanity@104.16.62.25:443?security=tls&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=/assignment#%F0%9F%87%B5%F0%9F%87%B1+Poland+-+Mazovia+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 vless://e6cc4788-3c45-4df1-94f3-8303504a65bf@104.17.247.68:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=khoda.ak-khoda.workers.dev&sni=khoda.ak-khoda.workers.dev&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1+Poland+-+Mazovia+%F0%9F%9F%A1+310+%E2%9A%A11039.7KB%2Fs+VLESS
