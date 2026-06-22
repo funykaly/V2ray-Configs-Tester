@@ -1,1 +1,2 @@
+trojan://humanity@162.159.193.202:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A0+210+%E2%9A%A1n%2Fa+TROJAN
 trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A0+240+%E2%9A%A1n%2Fa+TROJAN
