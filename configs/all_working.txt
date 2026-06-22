@@ -38,7 +38,6 @@ trojan://humanity@162.159.17.189:443?path=/assignment&security=tls&insecure=0&ho
 trojan://humanity@162.159.193.202:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&type=ws&host=www.calmloud.com&path=/assignment#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A0+210+%E2%9A%A1n%2Fa+TROJAN
 vless://0c9839aa-c64f-4791-9137-420432605987@168.138.166.89:8899?type=tcp&security=reality&sni=www.lovelive-anime.jp&fp=ios&pbk=4ciiQdZe4F8wyoRKpNzW5xwmQzGyIJnlPHrK70iU6DQ&sid=f0cce996&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+East+%F0%9F%9F%A1+310+%E2%9A%A117.9KB%2Fs+VLESS
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImhvc3QiOiJqcDAxLmEwYS54eXoiLCJpZCI6IjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiI4MCIsInBzIjoi8J+Hr/Cfh7UgSmFwYW4gLSDFjHNha2Eg8J+foSAyNjAg4pqhNC40S0IvcyBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiI1MSIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-http://173.212.246.157:3128#%F0%9F%8C%90+Unknown+-+Grand+Est+%F0%9F%94%B4+120+%E2%9A%A1105.9KB%2Fs+HTTP
 http://176.111.37.216:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A17176.0KB%2Fs+HTTP
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A17243.6KB%2Fs+HTTP
 socks5://176.114.199.202:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Tver+Oblast+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+SOCKS
