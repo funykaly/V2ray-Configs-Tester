@@ -97,6 +97,7 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&
 http://102.209.0.138:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://102.211.141.133:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://102.211.141.134:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://102.214.104.56:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://102.217.190.157:7080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://102.217.69.75:10443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://102.221.118.74:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -130,6 +131,7 @@ socks4://103.106.195.150:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 http://103.106.219.213:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.106.231.75:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.106.236.200:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://103.108.146.142:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.108.94.162:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.109.1.115:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.109.158.235:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -275,6 +277,7 @@ http://103.153.247.110:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.153.40.194:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.153.62.246:8181#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.154.113.243:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://103.154.230.78:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.154.231.123:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.154.76.52:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.155.167.82:8082#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -285,6 +288,7 @@ http://103.155.246.42:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.155.64.182:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.156.14.165:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://103.156.15.129:12#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://103.156.16.186:8818#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.156.16.189:8818#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://103.156.16.63:8199#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://103.156.17.104:8199#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -300,6 +304,7 @@ http://103.156.233.59:3125#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.156.248.100:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.156.75.49:8282#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.156.96.240:8088#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.156.96.242:8088#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.157.116.179:10810#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.157.219.4:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.157.78.102:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -411,6 +416,7 @@ socks4://103.166.32.130:11080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 http://103.166.33.88:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.166.9.50:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.166.90.86:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.167.170.70:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxMDMuMTY3LjE5Ni44IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1NjcxNmE5Ni1hMjY1LTQ0OGMtODk2OS0wM2U2MjY4ODk1ODAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 socks4://103.167.40.54:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.167.61.162:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -435,6 +441,7 @@ http://103.169.130.130:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.169.132.14:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@103.169.142.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#%F0%9F%8C%90+Unknown+%F0%9F%9F%A0+180+%E2%9A%A1n%2Fa+VLESS
 http://103.169.154.4:83#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.169.186.159:3125#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.169.225.35:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://103.169.254.155:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.169.254.75:6080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -517,6 +524,7 @@ http://103.175.202.178:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.175.237.228:3125#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.175.237.234:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.175.240.87:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.175.245.205:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.175.84.2:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxMDMuMTc2LjExMS4yNDciLCJhaWQiOjAsImhvc3QiOiJua3B2cG4uYWthbWFpemVkLm5ldCIsImlkIjoiZTk4MjE4NGYtYzZlMC00YmE0LTkxY2MtNzFlYjZjNzAyNTg4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
@@ -556,6 +564,7 @@ http://103.18.77.14:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://103.18.77.4:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.18.78.130:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.180.118.99:8044#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.180.119.77:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://103.180.123.111:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://103.180.123.229:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://103.180.223.7:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -563,6 +572,7 @@ vmess://eyJhZGQiOiIxMDMuMTgxLjE2NC4xNDUiLCJhaWQiOjAsImhvc3QiOiIxMDMuMTgxLjE2NC4x
 vmess://eyJhZGQiOiIxMDMuMTgxLjE2NC4xNDUiLCJhaWQiOjAsImhvc3QiOiIxMDMuMTgxLjE2NC4xNDUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU0MDIyIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6ZmFsc2UsInR5cGUiOm51bGwsInYiOjJ9
 http://103.181.255.69:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.181.92.250:82#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.184.180.204:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.184.21.69:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxMDMuMTg0LjQ0LjIyNCIsImFpZCI6MCwiaG9zdCI6ImVjYy52dGNzcy50b3AiLCJpZCI6Ijc0YTg5MGFiLTVjNGItNGYzNS1hZWE0LTVmYzI0NTliZWJkMiIsIm5ldCI6IndzIiwicGF0aCI6Ii9ibHVlIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidiI6IjIifQ==
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@103.184.44.62:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -810,6 +820,7 @@ http://103.217.216.71:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.217.217.35:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.218.183.133:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://103.219.163.246:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://103.22.99.137:3125#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.22.99.26:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.22.99.43:8085#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.220.23.131:7777#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -855,12 +866,14 @@ http://103.245.110.198:1452#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.245.96.165:3214#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.247.14.222:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.247.22.114:4317#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.247.22.151:7777#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.247.23.120:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.247.23.239:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.248.206.211:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.248.8.41:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.249.132.247:1081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.249.19.36:10001#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://103.249.19.50:10001#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.25.220.22:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.251.232.15:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://103.251.94.10:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -2048,6 +2061,7 @@ vless://351ec4ce-248a-4e14-a5f0-064258ff1741@10a1fd726.gheychi.me:2053?mode=gun&
 vmess://eyJhZGQiOiIxMGExZmQ3MjYuZ2hleWNoaS5tZSIsImFpZCI6IjAiLCJob3N0IjoiMTBhMWZkNzI2LmdoZXljaGkuZ2FtZXMiLCJpZCI6IjM1MWVjNGNlLTI0OGEtNGUxNC1hNWYwLTA2NDI1OGZmMTc0MSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMS53eWhrYWEwLmdxIiwiYWlkIjowLCJob3N0IjoiMTEud3loa2FhMC5ncSIsImlkIjoiYTU0ZmQzYmMtMzc2NC00MGNkLWZmNWEtNDcxNDcwNDE3ZWFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL1RHOkBoa2FhMCIsInBvcnQiOiIyMDk1IiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInRscyI6IiIsInYiOiIyIn0=
 http://110.164.175.110:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://110.232.85.2:6060#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://110.232.86.221:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://110.235.240.223:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://110.235.246.62:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -2178,6 +2192,7 @@ http://115.85.88.18:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://116.100.221.161:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://116.101.10.166:1056#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://116.101.13.80:1056#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://116.101.13.80:1064#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://116.101.75.173:1081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://116.101.75.173:1082#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://116.101.75.173:1100#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -2270,6 +2285,7 @@ socks5://119.148.11.141:22122#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://119.148.20.109:22122#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://119.148.23.210:9990#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://119.148.38.137:5871#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://119.148.47.235:1048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://119.148.51.30:22122#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://119.148.62.42:22122#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://119.15.89.87:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -2415,6 +2431,7 @@ socks4://124.41.240.203:37704#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 vless://69872d60-7cc2-c421-47ea-e2733c39bab0@124.53.232.44:50001?encryption=none&security=tls&sni=afa61101.soos.bbroot.com&fp=random&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=afa61101.soos.bbroot.com&path=%2Fsocks5%3D6226604a%3A9ca2df1bf22a%4038.57.76.31%3A33375#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks4://124.90.45.58:10800#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://125.129.15.95:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://125.135.136.210:3120#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://125.135.136.210:3172#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://125.135.136.210:3176#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://125.135.163.211:3096#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -2575,6 +2592,7 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.231.154.132:443#%F0%9F%8C%90+Unknown+%E2
 vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yahoo.com&fp=chrome&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&sid=67e2075367998314&spx=/&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A118.9KB%2Fs+VLESS
 trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 http://13.244.203.188:15441#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://13.244.203.188:47534#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://13.244.203.188:49025#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://13.245.171.157:34921#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://13.246.6.135:32252#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -2584,6 +2602,7 @@ http://13.250.27.37:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxMy4yNTAuMzEuMTQwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyYmM3N2MzMS1mZTUxLTRjMWYtOTJiMy1kYWU3Yjc3NjM2Y2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwMDg2IiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.46.178:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.250.54.18:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
+vless://a5548d28-c1dc-4c87-93ba-b6a1a393a2eb@13.251.156.0:443?encryption=none&fp=firefox&pbk=tg5AZG_Mj0_c4hh6oeHSRZGkp1ju8Ge7i2nkxRu4jAw&security=reality&sid=ed41&sni=play.google.com&spx=%2Fis7UqNeUm5nh8rQ&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 trojan://telegram-id-privatevpns@13.36.158.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 trojan://telegram-id-directvpn@13.36.158.160:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.158.160:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -2639,6 +2658,8 @@ vmess://eyJhZGQiOiIxMy41MC4xNTMuMjMwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZTJiZDc3
 trojan://telegram-id-privatevpns@13.50.16.231:22222?security=tls&sni=trj.rollingnext.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 trojan://telegram-id-privatevpns@13.50.26.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 http://13.51.196.44:17625#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://13.51.196.44:25777#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://13.51.196.44:45366#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.53.125:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://13.53.139.178:3129#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -2679,6 +2700,7 @@ vless://8f0c1a18-be77-49de-9aca-8b649efb8710@130.49.187.97:443?mode=gun&security
 vless://967064b5-3272-431e-8dce-9519acfb94be@130.49.190.94:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sw.zestful.bond&pbk=KS0F6q2PTY1s6y2sH5PdrznYqprIkUBtS1masvcrJjo&sid=823257b7b9ab9d02&spx=/#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://130.49.218.108:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://130.52.199.50:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://130.61.117.184:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://130.61.120.40:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://130.61.177.252:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://130.61.179.77:1234#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -3237,6 +3259,7 @@ vmess://eyJhZGQiOiIxNDIuMC4xMzYuOSIsImFpZCI6NjQsImhvc3QiOiJ3d3cuOTkyMjI1OTEueHl6
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@142.111.173.236:443?encryption=none&type=xhttp&headerType=&fp=firefox&host=s4078.wagahaha.xyz&path=1953f3f85b4949a96e69e1f51815a1d8&flow=&security=tls&sni=u711540us4078.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90+Unknown+%F0%9F%9F%A1+370+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiIxNDIuMTMyLjE2My4yMDAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiN2Y5NjVlM2UtYjAzZi00NTVlLWE5NmUtMDFiNjFmNzI1MzdhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnkg4pqqIDAg4pqhbi9hIFZNRVNTIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNDIuMTMyLjIzMi4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+http://142.147.119.181:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxNDIuMTcxLjEyMi4xNjMiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljc2NDkyNzk3Lnh5eiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzMTAwNiIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
 vmess://eyJhZGQiOiIxNDIuMTcxLjE0MS4yMTEiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJob3N0Ijoid3d3LjUzNjQ5MjYyLnh5eiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTcwMzkyNDY1ODQ0NyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNDIuMTcxLjE0OS43NSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImhvc3QiOiJ3d3cuMTE2NDAyNDcueHl6IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNzA0MTg4MjcwNTMxIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -4093,6 +4116,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMy@154.205.152.64:11201#%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
+http://154.208.58.89:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://154.209.4.204:38080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@154.21.87.223:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.68:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -4576,6 +4600,7 @@ vmess://eyJhZGQiOiIxNjAuMTkuNzguMjM3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmNTI3Yzdi
 http://160.191.130.131:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://160.191.173.53:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://160.191.180.149:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://160.191.242.246:7979#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://160.20.128.244:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://160.20.165.242:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://160.20.38.38:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -4784,6 +4809,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@162.251.61.47:808#%F0%9F%8C
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@162.251.61.47:810#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 vmess://eyJhZGQiOiIxNjIuMjUxLjYyLjExNSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMjMyNCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 socks5://162.253.68.97:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://162.255.110.24:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxNjIuNTUuMTc0LjEzNSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNGQ5YWE2ZGItNzA1YS00YmZhLWIwNWItOGY0NDJjODM5NTU3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2dyYXBocWwiLCJwb3J0IjoiODAiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 vmess://eyJhZGQiOiIxNjIuNTUuMjE0LjExMCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNjM5OWFiNTgtYjdjZS00ZDI0LWJlOWUtOTJjNTgxYzkzYjQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1MTU0OSIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 vmess://eyJhZGQiOiIxNjIuNTUuNjIuMTkzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyYWFjNzdkZS1iM2U0LTQwMTctODQ1Yy1jYTEzODBmMmU4ZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVsZWdyYW0taWQtQHByaXZhdGV2cG5zIiwicG9ydCI6IjgwIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
@@ -5292,6 +5318,7 @@ socks4://170.238.239.71:60606#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 http://170.239.205.31:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://170.244.0.179:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://170.244.25.52:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://170.244.27.142:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://170.246.198.24:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://170.247.200.138:8088#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://170.247.43.142:32812#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -6184,7 +6211,7 @@ http://173.245.58.240:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjM3IiwiYWlkIjowLCJob3N0IjoiN3dpaC1kYXJrbmVzcy1mMGFmLmppdmVnb2gxMTYud29ya2Vycy5kZXYiLCJpZCI6IjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nbHdlaWRmLmNmZC9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6Ijd3aWgtZGFya25lc3MtZjBhZi5qaXZlZ29oMTE2LndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjQzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIwYWZiOGIyYy0xNDlhLTQ5YTgtZTkwZi1kNzc4ODRhYzkyMmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYmx1ZSIsInBvcnQiOiIyMDgyIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 vmess://eyJhZGQiOiIxNzMuMjQ1LjU4LjUiLCJhaWQiOjAsImhvc3QiOiJ3b3JrZXItYml0dGVyLW1hdGgtMmFmOC53YXhvaGEzNjIxLndvcmtlcnMuZGV2IiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ3b3JrZXItYml0dGVyLW1hdGgtMmFmOC53YXhvaGEzNjIxLndvcmtlcnMuZGV2IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vless://073d1d50-8478-47bf-a828-7a1b381931d5@173.245.58.75:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@173.245.58.75:443?path=%2Fhdgrbws&security=tls&encryption=none&host=terazhediii.info&type=ws&sni=terazhediii.info#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://27c2c509-6cd7-4492-9e06-837ee0aa6a21@173.245.58.84:2087?alpn=http/1.1&encryption=none&fp=chrome&host=test.rahimravan.ir&path=/api&security=tls&sni=test.rahimravan.ir&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://2e7306af-9f3b-44bc-8632-a45fccb18bb2@173.245.58.9:2096?path=/v2ngfast---v2ngfast---v2ngfast---v2ngfast---v2ngfast&security=tls&encryption=none&host=v2ngfast.xswqaz11215.workers.dev&fp=chrome&type=ws&sni=v2ngfast.xswqaz11215.workers.dev#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://a039c938-0792-424a-8a8a-d0508c7fcab1@173.245.59.134:2053?encryption=none&type=ws&security=tls&path=%2F&host=sweet-art-a13d.5ejrdnfcv.workers.dev&sni=sweet-art-a13d.5ejrdnfcv.workers.dev&fp=chrome&allowInsecure=1#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -6228,6 +6255,7 @@ http://175.138.231.145:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://175.144.198.226:31694#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://175.194.173.105:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://175.213.76.24:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://175.215.145.180:3008#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://175.215.145.180:3048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://175.215.145.203:3044#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://175.215.147.214:3132#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -6369,7 +6397,7 @@ http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%
 http://178.156.250.20:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?security=reality&encryption=none&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vodafone.co.uk&sid=d27683580fc15f1e#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks5://178.16.140.119:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-socks5://178.17.132.179:10808#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://178.17.132.179:10808#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://178.170.43.121:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N09uREVaWUdqYTQ@178.18.244.2:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
@@ -6551,6 +6579,7 @@ vmess://eyJhZGQiOiIxODAuMTQ5LjkwLjY2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidGFi
 socks4://180.180.171.113:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://180.180.19.93:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://180.180.214.246:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://180.180.218.250:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://180.191.124.188:5555#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://180.191.124.201:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://180.191.137.150:8082#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -6581,6 +6610,7 @@ http://181.114.230.65:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://181.114.43.74:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://181.115.74.172:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://181.119.103.237:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://181.119.105.157:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.119.111.59:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.119.64.21:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.126.49.38:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -6643,6 +6673,7 @@ http://181.63.33.136:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.78.194.249:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.78.197.235:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.78.20.11:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://181.78.204.32:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.78.233.10:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.78.75.13:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://181.79.95.65:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -7230,12 +7261,14 @@ socks4://187.157.30.202:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 socks4://187.188.58.173:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://187.19.127.180:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://187.19.127.246:8011#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://187.190.58.124:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://187.199.116.70:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://187.210.136.88:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://187.217.197.236:444#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://187.243.251.254:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://187.251.130.135:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://187.32.20.249:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://187.49.149.49:9999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://187.49.207.65:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://187.60.67.218:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://187.62.65.6:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -7360,6 +7393,7 @@ http://188.121.168.60:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://188.127.224.164:2080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://188.129.8.242:81#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://b8c80aa1-63b9-4a75-8276-5b080d166477@188.130.206.60:2086?encryption=none&flow=xtls-rprx-vision&security=reality&sni=images.apple.com&fp=edge&pbk=7YzPmjCuTpavh7mObhGF8SMtZL7U-MDL_lG2IJkU6R0&sid=95eb9d54ffab&spx=%2F&type=tcp&headerType=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+http://188.132.222.148:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://188.132.249.247:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://188.133.160.22:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://188.134.1.49:3629#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -7522,6 +7556,7 @@ http://190.60.37.147:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.60.44.109:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.60.60.10:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.60.61.42:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://190.60.61.53:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.60.62.20:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.61.106.97:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://190.8.164.245:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -7627,10 +7662,12 @@ vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@192.169.223.21:2052?encryption=none
 http://192.177.75.187:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxOTIuMTg2LjEyOS42NiIsImFpZCI6NCwiaG9zdCI6InVzYS1idWZmYWxvLmx2dWZ0LmNvbSIsImlkIjoiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJ1c2EtYnVmZmFsby5sdnVmdC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vless://4525c260-df3c-4f62-b8f1-f4f5f305694b@192.200.160.132:8443?path=%2F%3Fed%3D%23Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--Join--V2rayTun0--%3Fed%3D512&security=tls&encryption=none&insecure=0&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+http://192.203.0.166:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://192.203.0.238:33333#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://192.210.197.13:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vmess://eyJhZGQiOiIxOTIuMjEwLjIwNy4yMTMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjEzYjczMTE0LWYzYTQtNGExYS1mMDgzLWI0NjIxY2Y3MzI3NSIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiIiwicG9ydCI6IjU4MDYiLCJwcyI6IvCfjJAgVW5rbm93biDwn5+gIDE0MCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 http://192.210.231.232:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://192.232.48.25:8181#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://192.232.48.26:8181#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://192.232.48.28:8181#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxOTIuMjM2LjI0OS4xMDIiLCJhaWQiOjAsImhvc3QiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwiaWQiOiIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
@@ -8337,7 +8374,7 @@ http://2.26.115.20:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://2.26.124.123:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIyLjI2LjIzMS44NyIsImlkIjoiNmQ2NTk1YjUtZmY3Zi00OTk1LWFiZGUtYjExODcyOTlhNjNkIiwibmV0IjoidGNwIiwicG9ydCI6IjExMCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
-socks5://2.26.87.216:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://2.26.87.216:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@2.26.88.109:443?security=reality&encryption=none&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://65f60e93-dbad-42b3-8856-7ca1c809adaa@2.27.22.238:110?security=&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://f07d5ce6-0de7-4be8-905b-de676c3138ae@2.27.59.62:42766?security=reality&encryption=none&pbk=T81_TmJlIrTaQcWqUd_QPR56ERmSzVna8JJra1Ki5QQ&headerType=&fp=chrome&spx=/RTOfA8zRCOYz6e9&type=tcp&sni=www.sourceforge.net&sid=c1d69bfee126bb#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -8399,6 +8436,7 @@ socks4://200.10.31.74:49992#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCK
 socks4://200.105.252.170:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://200.106.124.182:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://200.106.165.77:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://200.106.236.142:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://200.106.236.142:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://200.107.142.36:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://200.108.50.254:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -8438,6 +8476,7 @@ socks4://200.80.227.234:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 socks4://200.85.52.254:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://200.9.155.143:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://200.92.201.126:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://200.95.184.50:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://200.95.184.62:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2001:19f0:7001:150:5400:6ff:fe44:1cfd]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s3784.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u729792us3784.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90+Unknown+%F0%9F%9F%A1+370+%E2%9A%A1n%2Fa+VLESS
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2001:19f0:7001:1ea3:5400:6ff:fe45:f798]:443?encryption=none&type=tcp&headerType=&fp=firefox&host=s4766.wagahaha.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u711540us4766.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -8494,6 +8533,7 @@ socks4://202.151.163.10:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 socks4://202.152.15.2:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://202.154.19.153:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://202.157.67.40:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://202.159.35.84:9933#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://202.162.195.157:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://202.162.197.57:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://202.162.213.178:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -8548,6 +8588,7 @@ trojan://2b9f96246284482db6c8c64c562ac174@202.64.1.234:443?security=tls&allowIns
 vmess://eyJhZGQiOiIyMDIuNjQuMTI0LjI1MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNThkNGFkMmItODJkNS00ODQ3LWI4OGMtODg5ZGU0ZDM4YzE5IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 socks4://202.70.80.153:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://202.72.232.121:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://202.73.27.106:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://202.74.203.17:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vmess://eyJhZGQiOiIyMDIuNzguMTYyLjUiLCJhaWQiOjAsImhvc3QiOiJzYWhhbmQuc2VydmVtaW5lY3JhZnQubmV0IiwiaWQiOiIxMTgyODdkMi1lOTY4LTQyZTEtODBkMC0xMmZhMmY1ZDM4ZDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQGZvcndhcmR2MnJheSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vmess://eyJhZGQiOiIyMDIuNzkuMTYwLjE2NCIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMjA4NTA3NzIueHl6IiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
@@ -8785,6 +8826,7 @@ http://205.178.144.254:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.144.67:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.144.83:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.144.83:8447#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://205.178.186.111:8447#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.186.112:8447#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.186.117:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://205.178.186.11:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -8929,6 +8971,7 @@ socks5://206.123.156.211:15465#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%
 socks5://206.123.156.211:20021#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:22465#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:32186#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.211:34404#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:4033#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:4040#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:4230#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -8966,6 +9009,7 @@ socks5://206.123.156.211:8506#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.211:8658#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:8846#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.211:8910#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.212:10294#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.212:11279#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.212:12431#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.212:15270#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -8996,6 +9040,7 @@ socks5://206.123.156.212:6989#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.212:7802#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.212:9294#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:16218#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.213:36843#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:37158#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:37403#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:4175#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9019,6 +9064,7 @@ socks5://206.123.156.213:6157#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.213:6588#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:6903#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:6982#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.213:7410#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:7962#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:8101#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:10521#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9028,6 +9074,7 @@ socks5://206.123.156.218:16713#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+S
 socks5://206.123.156.218:18323#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:20675#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:26222#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.218:39676#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4019#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4022#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4026#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9053,6 +9100,7 @@ socks5://206.123.156.218:4600#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.218:4608#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4638#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4672#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.218:4678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4717#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4729#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4746#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9089,6 +9137,7 @@ socks5://206.123.156.219:10108#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+S
 socks5://206.123.156.219:11148#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.219:13846#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.219:15940#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.219:16372#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.219:17003#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.219:17341#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.219:18963#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9168,6 +9217,7 @@ socks5://206.123.156.221:4122#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.221:4219#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:4519#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:4555#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.221:4652#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:4989#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:6839#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:7788#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9176,10 +9226,12 @@ socks5://206.123.156.222:10745#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+S
 socks5://206.123.156.222:10833#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:10894#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:11735#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.222:13086#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:15699#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:21154#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:22387#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:32735#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A199.7KB%2Fs+SOCKS
+socks5://206.123.156.222:33241#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:4030#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:4035#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:4050#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9256,6 +9308,7 @@ socks5://206.123.156.223:10710#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+S
 socks5://206.123.156.223:10786#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:11736#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:12032#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.223:15312#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:15762#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:19186#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:19462#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9331,6 +9384,7 @@ socks5://206.123.156.223:6658#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.223:7125#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:7265#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:7412#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.223:7850#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:7884#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:7931#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:8036#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9358,6 +9412,7 @@ socks5://206.123.156.224:4714#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.224:4731#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:4812#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:4885#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.224:4928#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:4929#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:4986#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:5119#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9522,6 +9577,7 @@ socks5://206.123.156.230:7202#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.230:7468#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:7515#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:7981#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.230:8333#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:8999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:9393#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:9803#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9674,6 +9730,7 @@ socks5://206.123.156.233:9216#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SO
 socks5://206.123.156.233:9223#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.233:9463#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.233:9884#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.234:10071#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.234:13470#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.234:14586#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.234:14714#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -9752,6 +9809,7 @@ socks5://206.123.156.236:46375#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+S
 socks5://206.123.156.236:4724#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.236:4750#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.236:4941#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://206.123.156.236:4983#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.236:5074#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.236:5080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.236:5175#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -10350,7 +10408,7 @@ vless://0115163b-9d69-4748-8b3e-f0abfe991075@217.198.190.20:55992?security=none&
 http://217.209.35.22:443#%F0%9F%8C%90+Unknown+-+V%C3%A4stra+G%C3%B6taland+County+%F0%9F%94%B4+120+%E2%9A%A13190.3KB%2Fs+HTTP
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.129:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%87%B1%F0%9F%87%BB+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.130:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.244.131:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.247.253:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=enterprisekitten.com&sid=6ba85179e30d4fc2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks4://217.218.242.75:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://217.23.6.121:15324#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -10734,6 +10792,7 @@ vless://a96164eb-16fc-4a47-93d0-3a69916a36a8@27.50.48.49:8443?path=/&security=tl
 vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?security=tls&alpn=h3&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@27.50.49.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks4://27.72.122.228:51067#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://27.72.244.228:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://43bcba7d-cd22-379c-a7da-2e8eafecbc78@[2a00:b700:2::23c]:443?encryption=none&type=xhttp&headerType=&fp=ios&host=s532.wagahaha.xyz&path=ssp-xhttp&flow=&security=tls&sni=u711540us532.wagahaha.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90+Unknown+%F0%9F%9F%A1+370+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiIyYTAyOjZlYTA6ZDMyZjo6ZjhmZTozNDliIiwiYWlkIjowLCJob3N0IjoiMmEwMjo2ZWEwOmQzMmY6OmY4ZmU6MzQ5YiIsImlkIjoiYjIwYTcwNDItNzBmZi00Mzc2LWE3OWYtYjY4ZjllZGI3NTE5IiwibmV0Ijoid3MiLCJwYXRoIjoiL2dpdGh1Yi5jb20vQWx2aW45OTk5LW5ld3BhYy9mYW5xaWFuZyIsInBvcnQiOiIyNDIwMiIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOmZhbHNlLCJ0eXBlIjpudWxsLCJ2IjoyfQ==
 vless://28beee5e-40ab-3c36-b797-1e4ecf27d0a0@[2a04:52c0:139:ea24:13b7:8f0a:5c2e:d649]:443?encryption=none&type=xhttp&headerType=&fp=random&host=s615.csgfw.top&path=ssp-xhttp&flow=&security=tls&sni=u729792us615.csgfw.top&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#%F0%9F%8C%90+Unknown+%F0%9F%9F%A1+370+%E2%9A%A1n%2Fa+VLESS
@@ -11116,6 +11175,7 @@ socks4://36.37.189.64:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://36.37.203.215:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://36.37.244.41:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://36.50.232.226:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://36.50.253.37:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://36.50.56.11:8818#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://36.50.92.145:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://36.64.162.194:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -11568,6 +11628,7 @@ http://38.19.111.74:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.19.228.188:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.19.230.101:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.19.238.161:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://38.19.41.100:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.19.41.208:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.191.193.203:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.191.194.42:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -11583,6 +11644,7 @@ http://38.194.231.66:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.196.221.146:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.199.30.130:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.199.30.182:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://38.199.66.11:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.199.67.10:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.199.71.79:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
@@ -11965,6 +12027,7 @@ http://38.75.82.217:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.75.82.220:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.75.82.221:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://38.76.150.55:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://38.76.183.247:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://38.76.199.158:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.169:5500#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.86.135.169:7307#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
@@ -12128,11 +12191,13 @@ socks5://39.185.81.211:10808#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 vless://5eb636d1-f1da-4875-af76-3db836f0aaf9@3vv.fastv2.com:22073?encryption=none&security=tls&type=ws&path=%2f#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLR2NKc3IycGZGSDB4N0dN@4.168.196.7:443?#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 http://4.172.245.121:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://4.193.133.242:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.195.16.140:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.198.140.211:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.213.167.178:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.213.225.50:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.221.164.109:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://4.221.164.109:9443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://4.240.88.77:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138:40943#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN1BqMGM3M1BxUWY5N2xtV1ltQmJY@40.114.213.220:64504#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
@@ -12275,6 +12340,9 @@ trojan://BxceQaOe@43.199.34.99:27167?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87
 trojan://BxceQaOe@43.199.34.99:51396?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC+Singapore+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 http://43.200.174.95:39644#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://43.200.174.95:8999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://43.200.174.95:9050#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://43.200.179.23:20#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://43.200.179.23:8470#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiI0My4yMDAuMi4yNCIsImFpZCI6IjAiLCJob3N0IjoiNDMuMjAwLjIuMjQiLCJpZCI6IjNkYmYyMWNkLTUzOTEtNDhkNy1mODU3LTc5NTE1NmFlYTI4ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU3NDQ2IiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.244.234:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.200.245.35:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
@@ -12330,6 +12398,7 @@ socks4://43.248.27.11:54730#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCK
 vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000/?type=grpc&encryption=none&flow=&serviceName=dropbox.com&sni=google.com&fp=chrome&security=reality&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&sid=170f8a2036#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks5://43.251.86.65:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://43.252.236.114:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://43.252.237.163:1111#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://43.252.238.238:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@43.254.164.50:8443?&security=tls&fp=chrome&sni=s5.868001.xyz&type=ws&headerType=&host=s5.868001.xyz&path=%2Fproxyip%3Dtw.william.us.ci#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kwun+Tong+District+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@43hic3j.futurebalhbyh.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=c745dcb0#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -12395,7 +12464,7 @@ http://45.13.116.193:21537#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://45.13.116.212:21537#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://45.13.116.235:21537#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888/?type=tcp&encryption=none&flow=#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://eb77be10-9d9e-527b-a78d-8caaf58992d6@45.13.119.219:8888?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://45.13.185.217:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://45.13.237.46:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://d08d180d-cb07-4d82-b1bd-1e42fa523cd7@45.130.125.0:443?path=/sg-orcl&security=tls&encryption=none&insecure=0&host=ads.ruangguru.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=ads.ruangguru.com.cyylr.eu.cc#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -12510,7 +12579,7 @@ http://45.133.107.193:81#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.151:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@45.133.247.196:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiI0NS4xMzMuMjQ3LjIxNyIsImFpZCI6IjAiLCJob3N0IjoiZnI2LnRlaG1lMTAwLmZ1biIsImlkIjoiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pudjhWaVpPVVZnaWpqT2gwcDV1R2pIblhJaVkiLCJwb3J0IjoiMjA4MiIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-vless://039a1658-e86e-475f-a3a4-67cc249acada@45.134.217.196:443?type=tcp&headerType=none&security=reality&encryption=none&sni=gr1.panel11.ru&fp=firefox&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&sid=f5c14a97040a38bf&flow=xtls-rprx-vision#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://039a1658-e86e-475f-a3a4-67cc249acada@45.134.217.196:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rYwYudDb69CwjAJNw5KTFqJnRwwADgDMDpjv9KESjEY&sid=f5c14a97040a38bf&sni=gr1.panel11.ru#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://45.135.165.102:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.135.235.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiI0NS4xMzYuMTIuMzciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA5MGQwYmQ5LWY5YzQtNGMzYi04YWFlLWZmYTY3ODc2NTkzNSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MjEiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
@@ -13018,6 +13087,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYzhMTUpldzNGbDlNYmNGQ29GZ1Qw@46.246.96.30:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvbUNLNkZCRnVONVNHZ1gwZ0NsanU5@46.246.97.195:23931#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=/vless&security=&encryption=none&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYldOQzh6WjBlWG9rSU91VzVyTDhvTnJYbVhnNXFBdUwwNVI0ZkdOS0NTN0lHMHU@46.246.97.3:31348#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
+socks5://46.246.98.60:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://46.249.100.124:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://46.250.241.190:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://46.250.241.229:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -13429,6 +13499,7 @@ trojan://18844%40zxcvbn@49.212.204.123:443?security=tls&allowInsecure=1&type=tcp
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@49.212.221.47:2053?security=tls#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 socks4://49.229.36.170:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://49.4.117.146:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://49.48.55.218:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://49.48.65.32:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://49.51.186.8:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://dd8d3617-5185-447c-a25d-3ada2f840e00@4c27416e4ef0c1cf.movies.deldadehtarin.ir:8443?security=reality&alpn=h2&encryption=none&pbk=LGsUSDRM9uI4-_XMbdjI1QHW-YauehcPFsaWx0R37EI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=dad3488446359a87#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -13558,7 +13629,7 @@ socks5://5.255.123.162:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCK
 http://5.255.125.188:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://5.255.97.220:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://5.255.99.75:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?security=reality&%3Bencryption=none&%3Bpbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bsni=music.yandex.ru&%3Bsid=48a458b7e7cb52ae#%F0%9F%87%B3%F0%9F%87%B1+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://96e86354-c333-47b8-9bc7-271bba70df1d@5.35.34.181:443?security=reality&%3Bencryption=none&%3Bpbk=rAMn0lQ0hcsZ0ZnUWwe022bU8pMXYWViV_XSpQ1NKXU&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3Bsni=music.yandex.ru&%3Bsid=48a458b7e7cb52ae#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://a307515b-bfac-4dfb-a5ac-0dd5596e76f2@5.35.34.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&sid=387d2fb5f83c0cde#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://1281ef13-f1cd-493b-903e-4c2f4ffe1eba@5.35.94.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=dzen.ru&pbk=olcTApVIdrdt_bsMJaLsZ-8bYR73oMNzgCZJuR_4sFA&sid=7c83683ed7507a69#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://3aae85e1-b87d-48b3-a081-e84f537d6eab@5.42.101.151:40443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=fX0kqDDm8qfm09fAlWjT2H5AAT7-9wGswgFXMc6gDUQ&security=reality&sid=d414&sni=deepl.com&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -14131,6 +14202,7 @@ ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@61.220.130.70:50701#%F0%9F%8C%90+Unknown+%E2
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@61.220.41.143:36633?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiI2MS4yMjIuMjAyLjE0MCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZTU1Y2QxODItMDFiMC00ZmI3LWE1MTAtMzYzNzAxYTQ5MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzc5MiIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 http://61.230.49.80:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://61.245.11.251:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://61.29.96.146:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://61.49.87.3:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://61.7.147.227:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -14228,7 +14300,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.146.220:22224?type=ws&securi
 trojan://telegram-id-privatevpns@63.182.140.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.140.159:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.183.200.172:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
-trojan://telegram-id-privatevpns@63.185.169.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
+trojan://telegram-id-privatevpns@63.185.169.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 trojan://telegram-id-v2rayvpnchannel@63.185.169.158:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.185.169.158:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://Namedzadimtelegramid@63.185.83.92:443?encryption=none&extra=#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -14549,7 +14621,7 @@ socks5://72.195.34.42:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://72.195.34.58:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://72.195.34.59:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://72.195.34.60:27391#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-socks4://72.205.0.67:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+socks5://72.205.0.67:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks4://72.205.0.93:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://72.206.181.103:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://72.206.181.105:64935#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -14741,6 +14813,7 @@ http://79.137.17.104:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://5b2d7043-535c-4a69-afb4-4e55e1322149@79.137.194.189:57323?security=&type=tcp&path=/&headerType=http&host=evernote.com&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks5://79.137.197.56:1081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://79.137.205.130:7443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://79.137.85.144:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.174.12.190:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.174.63.25:8081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://38754be6-43fe-47ca-aaf2-86f789e8c6eb@79.174.90.102:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -14759,6 +14832,7 @@ http://79.188.239.46:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.188.239.47:8443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:1010#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:1082#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://79.7.171.7:1108#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:1452#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:1556#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:1567#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -14790,6 +14864,7 @@ http://79.7.171.7:5154#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:5161#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:5254#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:5397#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://79.7.171.7:5687#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:5734#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:5755#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:6037#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -14810,8 +14885,10 @@ http://79.7.171.7:7524#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:7565#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:7570#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:764#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://79.7.171.7:7659#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:7777#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:7797#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://79.7.171.7:7828#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:8000#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:8012#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://79.7.171.7:8050#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -14944,13 +15021,14 @@ vmess://eyJhZGQiOiI4LjIxOS41OC41OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOTE2NDZmOWEt
 http://8.219.77.141:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.219.80.246:8888#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://65fa5d79-efca-44dd-941e-8aa8014a780f@8.219.97.179:2095?security=&type=ws&path=/?ed%3D2048&host=sg2.vlessx.xyz&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-http://8.219.97.248:80#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.220.136.174:12000#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.220.141.8:9090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiI4LjIyMC4xODguMjM4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MWI1N2M4NC02OThmLTQ5NDQtOTI2OC1kYjZhMDZhNGE2M2EiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMzMjQ4IiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 http://8.220.204.92:19#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.220.205.172:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.220.216.57:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://8.221.115.238:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.221.138.111:9080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.221.139.222:8028#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.221.141.88:31433#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -14962,6 +15040,7 @@ vmess://eyJhZGQiOiI4LjIyMi4yMjIuNjQiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjdlN2Y4Mzk4
 http://8.243.126.136:8801#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.243.163.40:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://8.243.163.58:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://8.243.71.182:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@8.34.146.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=/pabloping&mode=auto#%F0%9F%8C%90+Unknown+%F0%9F%9F%A0+180+%E2%9A%A1n%2Fa+VLESS
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.34.70.30:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vms.lifetime09.workers.dev&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://ae0dd58e-e222-40bf-84ae-365a97532737@8.35.211.138:2096?encryption=none&flow=&type=ws&path=/item&security=tls&sni=pagescm.freen20.cc.cd#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -14993,6 +15072,7 @@ socks4://80.63.107.90:4153#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://0e49e208-e09e-49bc-afee-2907e5419107@80.64.24.118:443?security=reality&encryption=none&pbk=8UWFWRTGQEwvG_tmQPDnZOxxVsTmLI2aEjONq1Ad0Hk&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=rus.tropatg.ru&sid=531e2895f6b53c8f#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNNmFKN2U0STI5NVdGcDRXWWZ3YjFv@80.71.157.175:38211#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
+http://80.72.176.54:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://80.72.39.35:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://80.74.54.148:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://80.77.112.216:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -15098,6 +15178,7 @@ http://82.64.46.151:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://82.64.46.151:8013#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://82.65.220.152:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://82.69.16.184:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://82.86.112.48:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://82.96.128.175:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://82.97.246.138:1081#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://82.97.247.37:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -15822,7 +15903,7 @@ vless://be0788d7-8c06-4ef2-9eca-809c6bd8e2b2@91.107.175.2:443?path=%2Ffarasati1&
 vless://cc0ce0ab-7286-4183-85f5-e855c052aef7@91.107.176.136:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://91.107.176.59:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://70142bd7-543d-44f1-b6dd-62bb90ad20ef@91.107.180.206:7443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-http://91.107.182.124:82#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+socks5://91.107.182.124:82#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://f112ad3b-9c4c-4f76-b1a9-12ed9dd7e63c@91.107.183.8:843?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:1040?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QGNDB8osX42rKSsOZQZRuA1tzKUZtjHA5bUjAReQHiM&security=reality&sid=94a459cfbfd7&sni=www.oracle.com&spx=/P8LS8JbnsvBANB2&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://727bec5f-6077-48cb-a722-0217cb627982@91.107.185.59:1080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=8UADlZT6MI4J51E-Az4n4x68utNVUewjAPygkG_6Nyo&security=reality&sid=8f&sni=www.sony.com&spx=/9ZlPVZaQN2WQHrp&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -15984,6 +16065,7 @@ http://92.42.96.84:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://92.45.19.35:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vmess://eyJhZGQiOiI5Mi40Ni4xMDguMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoic2F6Z2FyLnNlcnZlaXJjLmNvbSIsImlkIjoiZWNiYTViMzMtZjc2OC00ZDhhLWIwMDQtYjI5ZThlNWM2NzZmIiwibmV0Ijoid3MiLCJwYXRoIjoiL0Bmb3J3YXJkdjJyYXkiLCJwb3J0IjoiODAiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 socks5://92.46.70.174:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
+http://92.5.8.178:3128#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@92.53.188.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#%F0%9F%8C%90+Unknown+%F0%9F%9F%A0+180+%E2%9A%A1n%2Fa+VLESS
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -16198,7 +16280,7 @@ socks5://95.80.112.242:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCK
 socks4://95.80.253.77:33333#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://e274d81c-6118-44cf-8864-06b3dc83e0c0@95.85.231.0:443?encryption=none&type=tcp&security=reality&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=musicboss.eu&fp=firefox&insecure=1&allowInsecure=1&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&flow=xtls-rprx-vision#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://7c0f30a2-a7c1-43b1-bc51-20f07036a76e@95.85.232.195:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=Np5eNpCJdcXe4IvMs0stzE-sMtlphhTnZeuCkhjQXzQ&fp=firefox&type=xhttp&sni=de-01.gni-daed.ru&sid=a8389289e18af5f4#%F0%9F%8C%90+Unknown+%F0%9F%9F%A1+320+%E2%9A%A1n%2Fa+VLESS
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?mode=gun&security=reality&encryption=none&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&fp=firefox&type=grpc&sni=c.primarymaster.online&sid=c56c3ba3b9f676c5#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://69a2af58-d74a-44ca-864a-e09b493f4274@95.85.234.126:443?security=reality&encryption=none&pbk=1kAsEwUWwatnjpeQ2qUwHSccFucFOKzXVICm9tC0eWA&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=25425ff6fa#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://95.85.252.153:21064#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://23e5a6a4-bad4-4be6-873b-fce27c9ca8be@95.85.55.131:2083?security=tls&type=ws&host=srb6j666.65p5drnb2vxb7rkbzwlx.workers.dev&fp=chrome&sni=srb6j666.65p5drnb2vxb7rkbzwlx.workers.dev&path=%2F%3Fed%3D2560&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -18669,7 +18751,7 @@ trojan://257d8622-6701-4c98-a432-67a9696f58ae@shazira.app:443?sni=shazira.app#%F
 vless://4b581293-af3a-4658-b9b2-06949626bf86@8.6.112.6:443?encryption=none&security=tls&sni=cdnde.sheriffbus.com&fp=chrome&type=xhttp&host=cdnde.sheriffbus.com&path=/@SheriffNet&mode=auto#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://240081a0-80f0-4ef8-b834-52d8df75bad3@172.66.156.81:80?encryption=none&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.pyt.digitalcity5.xyz.skylinkserver.site.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://ce0c7a47-944e-4ecf-ba11-249c561d6084@www.speedtest.net:80?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2560&host=shhproxy.com.www.speedtest.net.www.zula.ir.cloudflare.com.developsp.ir.&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-vless://ef968e63-ff7f-4b10-b862-48441100ed4c@shop.dearhosseib.ir:2087?security=reality&encryption=none&pbk=0dOGHe967sE6WBNOgRiqBdr7HhvTt6QXoArgISzY1jA&headerType=http&fp=chrome&spx=%2FNk51qSsgwNTbD0y&type=tcp&sni=www.yahoo.com&sid=a7b54d86d7926607#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://ef968e63-ff7f-4b10-b862-48441100ed4c@shop.dearhosseib.ir:2087?security=reality&encryption=none&pbk=0dOGHe967sE6WBNOgRiqBdr7HhvTt6QXoArgISzY1jA&headerType=http&fp=chrome&spx=%2FNk51qSsgwNTbD0y&type=tcp&sni=www.yahoo.com&sid=a7b54d86d7926607#%F0%9F%87%A9%F0%9F%87%AA+Germany+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://835dca30-9ea8-459b-addb-3f5464a23c14@shop.hyby.ir:8443?security=tls&encryption=none&insecure=0&host=www.hyby.ir&type=ws&allowInsecure=0&sni=www.hyby.ir#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiJTaG9waWZ5LmNvbSIsImFpZCI6MCwiaG9zdCI6IkZyLmNsb3VkZmxhcmUucXVlc3QiLCJpZCI6IjI1MGY0MzMxLThjM2UtNGI4Ny1hODZiLTVjNWZiZjlkZGJhOCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmllcyIsInBvcnQiOiIyMDg2IiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2N5IjoiYXV0byIsInRscyI6IiIsInYiOiIyIn0=
@@ -19183,7 +19265,7 @@ vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&e
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca30.mysilipdir.com:8880?mode=gun&security=none&encryption=none&authority=BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&type=grpc#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiJ2cG5zaG9wdGVzdC52cG5zaG9wLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZmY4YzE3YS1lNjQ0LTRjZjktZjRiMC00MDNmNjliZDgwNjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxNTA0NyIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ2cG5zaG9wdGVzdC52cG5zaG9wLnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1MDMwY2FjOS00ZjI2LTQ5YmUtZDU3Mi01NTQ4ZTMxMTI2OTEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NTYwOSIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%87%B0%F0%9F%87%BF+Kazakhstan+-+Almaty+%F0%9F%9F%A1+350+%E2%9A%A1352.4KB%2Fs+VLESS
+vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@vpnv1.aspidnet.xyz:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90+Unknown+-+Almaty+%F0%9F%9F%A1+350+%E2%9A%A1352.4KB%2Fs+VLESS
 vmess://eyJhZGQiOiJ2cHMtODM3NjExZGIudnBzLm92aC51cyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIzZTFjMTM1NS1mZmI1LTQ4YzMtOGU3ZC1mNmJlN2I4ZmVjZTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMg4pqqIDAg4pqhbi9hIFZNRVNTIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ2dG9yczQzLm5ldDJ2aXAuY29tIiwiYWlkIjowLCJob3N0IjoidnRvcnM0My5uZXQydmlwLmNvbSIsImlkIjoiMjU5ZjM0NWQtNjE3ZS00Y2ZiLWE5ZmEtNTdkM2RjMjQ0Mjg4IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIzMzAxOCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vv.outline-vpn.cloud:80?encryption=none&security=tls&type=ws&sni=67.事出场次以运7.tech&host=67.事出场次以运7.tech&path=%2f#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -19237,9 +19319,7 @@ vless://b612ebb2-a56a-44a9-9765-a61ceac64ccb@www.arvancloud.ir:8080?path=/wss&%3
 vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.baipiao.eu.org:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=random&security=tls#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiJ3d3cuYmFsZGVuZ2luZWVyLmNvbSIsImFpZCI6MCwiaG9zdCI6InllbGFuLnRoZWxhc3Ryb25pbi5jbG91ZG5zLm9yZyIsImlkIjoiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cy9hZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieWVuNjNqajM2ajNqZmZsYW4udGhlbGFzdHJvbmluLmNsb3VkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vmess://eyJhZGQiOiJ3d3cuYnpmbWMuY29tIiwiYWlkIjowLCJob3N0IjoieWVsYW4udGhlbGFzdHJvbmluLmNsb3VkbnMub3JnIiwiaWQiOiJmYTViNTVjZC1jYWZjLTRkZTAtYTRjOC03MjJlMDJhOWY1OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzL2htczAzLmRvbmdmZW5nLmNmZCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieWVsYW4udGhlbGFzdHJvbmluLmNsb3VkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&alpn=http/1.1&fp=chrome&type=ws&path=/assignment&allow_insecure=0#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 vless://e535e1b3-db06-4b2b-9c9a-6824378abbc4@www.chatgpt.com:443?alpn=h2,http/1.1&encryption=none&extra=#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=/assignment&allow_insecure=0#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.csgo.net:2095?encryption=none&type=ws&path=%2F&host=cnmfangbinxingnmsl.cnmfangbinxing-h.workers.dev&fp=randomized#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiJ3d3cuZGFya3Jvb20ubG9sIiwiYWlkIjowLCJob3N0Ijoid3d3LmRhcmtyb29tLmxvbCIsImlkIjoiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 vmess://eyJhZGQiOiJ3d3cuZGlnaXRhbG9jZWFuLmNvbSIsImFpZCI6MCwiaG9zdCI6Ind3dy5kaWdpdGFsb2NlYW4uY29tIiwiaWQiOiIzYTNlMjYzZC0yMjNmLTQ5Y2MtYmJkYi1mN2UwN2E1NWU2ZmUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMTExMTExLm9ubGluZSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
@@ -19262,7 +19342,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?allowInsecure=
 vless://252e7311-477b-4713-96ec-30ee8bb5f694@www.sibzam-poshak.ir:2082?encryption=none&type=tcp&security=reality&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&sni=yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=_Ep9rs71EW4BYpupN25Z91tKS4u2jyWERfrb0CY1OiE&sid=01117aa377a206&spx=%2FbsdFquDtebYtRLM%2FTELEGRAM----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN----%40JKVPN#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://bdcfaeed-ddf1-4817-bc90-c22b22fcb2b5@www.spark.red:443?path=%2F14391%2Fapi&security=tls&encryption=none&insecure=0&host=pop.mmadcoffee.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.mmadcoffee.info#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://b8a47567-be06-4ef5-a707-8879be68caec@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl.summercart.net&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?main=55223&security=tls&alpn=h3,h2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://06081ec9-2f11-4839-bb5b-04764ea922e7@www.speedtest.net:2053?mode=packet-up&path=/dl?main=55223&security=tls&alpn=h3,h2&encryption=none&extra=&insecure=0&host=in2.26cloud.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=in2.26cloud.ir#%F0%9F%8C%90+Unknown+%F0%9F%9F%A2+410+%E2%9A%A1n%2Fa+VLESS
 vless://27c2c509-6cd7-4492-9e06-837ee0aa6a21@www.speedtest.net:2083?encryption=none&fp=chrome&pbk=jbkvYfUsJX5cdT5PuCYuOy05WTiUXWEgYL23friKKDA&security=reality&sid=c4b570d9457c91d4&sni=www.speedtest.net&spx=/LWUkY7XzroD5dOw&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://8137e9a6-22e6-4707-a120-a6dea17c7e00@www.speedtest.net:2086?path=%2FeyJqdW5rIjoic1VBWDhGMXJsREg5WUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI4My4xNDcuMjU0LjI0NSJdfQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=dry-snow-2e6f.fastip25478.workers.dev&type=ws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://f88e48d7-e455-4d1a-b5bd-9b9db38d7393@www.speedtest.net:2087?path=/eyJqdW5rIjoiVTZuc1hmUnVsNG0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=claiming.mihannurse.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=ClAIMing.MIHANNuRSE.QZZ.iO#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
@@ -19273,7 +19353,6 @@ vless://f4e22eff-20b2-4af7-aee9-4a67b82b47f3@www.speedtest.net:80?path=/%40Confi
 vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXAuZGdjbGl4LmlyIiwiaWQiOiI3MmY1YmQ4NS02ZDkyLTQ2NDQtYTFjNC01NDJhOTI4OTZhOGIiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvY3VzdG9tX2NvbmZpZz9lZD0yNTYwIiwicG9ydCI6IjgwODAiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://d1817585-47da-44fe-88d4-93f86ec3ac4b@www.speedtest.net:8443?path=/&security=tls&encryption=none&insecure=0&host=sparkling-fog-7b4c.mobin8568768.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sparkling-fog-7b4c.mobin8568768.workers.dev#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://8a20ecfe-6a72-4e88-aa2c-65a9e43a8512@www.speedtest.net:8880?path=/%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN-%40LOCKEY_VPN%3Fed%3D8880&%3Bsecurity=none&%3Bencryption=none&%3Bhost=www.lockey-website.ir&%3Btype=httpupgrade#%F0%9F%87%BD%F0%9F%87%BD+Unknown+%F0%9F%9F%A0+180+%E2%9A%A1n%2Fa+VLESS
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@www.speedtest.org:443?encryption=none&security=tls&sni=shegeftihaaa.net&insecure=0&allowInsecure=0&type=ws&host=shegeftihaaa.net&path=/rsedgws#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiJ3d3cuc3R0bGluay5jYyIsImFpZCI6MCwiaG9zdCI6Ind3dy5zdHRsaW5rLmNjIiwiaWQiOiJkM2EyNGJlOC1jODQ3LTRjN2YtYmEzMi04ZGQ2ZTc5ZTUyYjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvQVNGSExBU0hGTyIsInBvcnQiOiI4MCIsInBzIjoi8J+MkCBVbmtub3duIOKaqiAwIOKaoW4vYSBWTUVTUyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
 vless://a10dab76-0f3a-42bb-979f-2648085de252@www.tekkenmods.com:443?alpn=h2,http/1.1&encryption=none&extra=#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.temu.com:2095?allowInsecure=0&sni=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&type=ws&host=cnmfangbinxing.fangbinxingnmsl-fuckyou.workers.dev&path=/fp=randomized#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
