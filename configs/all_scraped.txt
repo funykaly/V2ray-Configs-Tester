@@ -7030,7 +7030,7 @@ socks4://193.233.254.9:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCK
 http://193.24.30.50:37777#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA@193.243.147.128:40368#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 socks4://193.243.154.146:4145#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&encryption=none&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=e0274f4ac227090f#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://9fb2d0b1-171b-45c0-aae3-3313a73cba29@193.247.82.40:448?security=reality&encryption=none&pbk=MbaP34cAgypweQZ7L2hx1wihw_K5c3g4SBlOpgD7wRo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.googletagmanager.com&sid=e0274f4ac227090f#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://193.25.2.239:443#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://193.25.215.182:22222#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 http://193.251.72.202:8090#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
@@ -8777,7 +8777,7 @@ socks4://212.57.185.246:9050#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 socks5://212.58.132.5:1080#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://212.58.132.5:8888#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 vmess://eyJhZGQiOiIyMTIuNjQuMTkzLjgzIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI3Y2Y1YWYyOS03YmMzLTQ0YjYtOTI2OS1kZDY3ZjI5NWRlZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM0MTYyIiwicHMiOiLwn4yQIFVua25vd24g4pqqIDAg4pqhbi9hIFZNRVNTIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://ebcb836a-ab7a-424f-a07c-aba25c70da69@212.69.86.220:9443?security=reality&encryption=none&pbk=2MnLp2jBmP-bPYRHf3VY3wyGMwIYIAizXCB7UxgYVGc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=estonianode.dostupnet.ru&sid=7c16c340cde3ed39#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://568bcfb3-965b-4d97-af29-155b7b9d89c4@212.74.39.81:443?security=reality&encryption=none&pbk=QsjSJxjG0T6XmoBhjXUohrMNGDQ97J14LVGnJRgUqVk&headerType=none&fp=firefox&spx=%2FAE7HghBN00V0cbb&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=d3#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 http://212.77.75.25:3129#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://212.83.143.151:31442#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
