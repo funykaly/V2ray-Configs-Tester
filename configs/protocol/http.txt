@@ -22,6 +22,7 @@ http://34.101.184.164:3128#%F0%9F%8C%90+Unknown+-+Jakarta+%F0%9F%94%B4+120+%E2%9
 http://34.2.0.182:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://34.2.6.70:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://34.84.162.206:38080#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
 http://41.57.136.174:8080#%F0%9F%87%BF%F0%9F%87%A6+South+Africa+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+HTTP
 http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1274.3KB%2Fs+HTTP
