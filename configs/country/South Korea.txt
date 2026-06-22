@@ -1,1 +1,2 @@
+http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?type=tcp&security=tls&headerType=none&sni=38.60.220.65&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%9F%A1+270+%E2%9A%A111.6KB%2Fs+TROJAN
