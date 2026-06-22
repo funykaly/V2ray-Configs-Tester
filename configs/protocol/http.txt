@@ -16,6 +16,6 @@ http://43.153.82.179:8888#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2
 http://43.167.192.85:8080#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A132.3KB%2Fs+HTTP
 http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://64.188.125.187:3128#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
+http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
