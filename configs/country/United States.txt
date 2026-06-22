@@ -1,1 +1,1 @@
-trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?security=tls&headerType=none&type=tcp&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+TROJAN
+http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
