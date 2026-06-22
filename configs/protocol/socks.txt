@@ -32,4 +32,5 @@ socks5://5.45.118.209:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%
 socks5://8.215.47.191:10080#%F0%9F%8C%90+Unknown+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 socks5://8.217.144.167:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://85.237.206.150:1234#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+SOCKS
+socks5://87.255.241.149:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://91.218.114.118:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
