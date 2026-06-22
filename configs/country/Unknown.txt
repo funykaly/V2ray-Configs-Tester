@@ -75,6 +75,7 @@ http://34.2.0.182:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E
 http://34.2.6.70:1080#%F0%9F%8C%90+Unknown+-+Quer%C3%A9taro+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://34.84.162.206:38080#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90+Unknown+-+Almaty+%F0%9F%9F%A1+310+%E2%9A%A1171.3KB%2Fs+VLESS
+http://41.57.136.174:8080#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://43.133.37.149:1080#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A15.6KB%2Fs+SOCKS
 socks5://43.161.217.219:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@43.165.175.34:443?type=ws&security=tls&fp=random&sni=auv.vavava.kdns.fr&path=/%3Fed%3D2560&host=auv.vavava.kdns.fr#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A16.8KB%2Fs+VLESS
