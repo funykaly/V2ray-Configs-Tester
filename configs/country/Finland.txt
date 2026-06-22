@@ -1,1 +1,0 @@
-vless://a81aef49-ee1d-47db-a4f9-6aeb100af560@iransello.xmsd.ir:443?path=%2Fa81aef49-ee1d-47db-a4f9-6aeb100af560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws#%F0%9F%87%AB%F0%9F%87%AE+Finland+-+Uusimaa+%F0%9F%9F%A1+300+%E2%9A%A1n%2Fa+VLESS
