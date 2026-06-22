@@ -71,7 +71,7 @@ vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443?security=reality&
 socks5://43.133.37.149:1080#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A15.6KB%2Fs+SOCKS
 socks5://43.161.217.219:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@43.165.175.34:443?security=tls&sni=auv.vavava.kdns.fr&alpn=&fp=random&type=ws&host=auv.vavava.kdns.fr&path=%2F%3Fed%3D2560&fragment=1%2C40-60%2C30-50%2Ctlshello&encryption=none#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A16.8KB%2Fs+VLESS
-vless://06b65903-406d-4a41-8463-6fd5c0ee7798@43.169.18.179:443?path=/proxyip=ProxyIP.CMLiussss.net&security=tls&encryption=none&insecure=1&host=sni.skylee4.cloudns.ch&fp=chrome&type=ws&allowInsecure=1&sni=sni.skylee4.cloudns.ch#%F0%9F%8C%90+Unknown+-+Mazovia+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+VLESS
+trojan://humanity@43.169.18.179:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90+Unknown+-+Mazovia+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&type=tcp&security=reality&sni=ya.ru&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#%F0%9F%8C%90+Unknown+-+St.-Petersburg+%F0%9F%9F%A0+200+%E2%9A%A1n%2Fa+VLESS
 vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771?security=reality&encryption=none&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=33f2#%F0%9F%8C%90+Unknown+-+Riga+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -80,14 +80,14 @@ socks5://47.79.79.35:10808#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9
 socks5://5.45.118.209:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://43488128-319e-f480-64ea-0acdc712e2a8@51.255.71.16:443?security=reality&encryption=none&pbk=ZnlCl_Jc2dV5-KK_ymmMcEDoe5lPyZ-5z_LGMRoiNTU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.booking.com&sid=b87063a35aaa942e#%F0%9F%8C%90+Unknown+-+Hauts-de-France+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+VLESS
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+HTTP
-vless://9cd65844-3f28-4081-8d70-b5c61815f45d@62.210.172.148:443?alpn=http/1.1&encryption=none&host=t-panel.wasmer.app&path=/ws/9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&sni=t-panel.wasmer.app&type=ws#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+260+%E2%9A%A1n%2Fa+VLESS
+vless://9cd65844-3f28-4081-8d70-b5c61815f45d@62.210.172.148:443?alpn=http%2F1.1&encryption=none&host=t-panel.wasmer.app&path=%2Fws%2F9cd65844-3f28-4081-8d70-b5c61815f45d&security=tls&sni=t-panel.wasmer.app&type=ws#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+260+%E2%9A%A1n%2Fa+VLESS
 http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1274.3KB%2Fs+HTTP
 http://65.109.65.238:18080#%F0%9F%8C%90+Unknown+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://8.215.47.191:10080#%F0%9F%8C%90+Unknown+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 socks5://8.217.144.167:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.222.179.80:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sni=commerce.adobe.com#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+280+%E2%9A%A1n%2Fa+VLESS
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1126.7KB%2Fs+HYSTERIA2
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1126.7KB%2Fs+HYSTERIA2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A117.9KB%2Fs+SS
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90+Unknown+-+West+Pomerania+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%F0%9F%8C%90+Unknown+-+Astana+%F0%9F%9F%A1+310+%E2%9A%A175.5KB%2Fs+VLESS
