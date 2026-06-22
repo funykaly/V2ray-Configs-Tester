@@ -1,1 +1,2 @@
+socks5://206.123.156.210:4818#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://35.172.227.219:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1970.4KB%2Fs+HTTP
