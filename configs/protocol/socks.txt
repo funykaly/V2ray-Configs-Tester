@@ -1,5 +1,4 @@
 socks5://138.199.25.13:3906#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://139.59.105.64:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
 socks5://144.124.227.88:3129#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://149.28.156.194:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A124.6KB%2Fs+SOCKS
 socks4://168.144.41.8:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
