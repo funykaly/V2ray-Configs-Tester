@@ -58,6 +58,7 @@ vless://deecd21a-a24f-444d-b92a-2c8e41a6b05b@191.44.118.101:443?encryption=none&
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:443#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
 vless://ea0a2f27-7e22-4337-820b-6703eca2d7b4@195.184.247.170:443?encryption=none&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%8C%90+Unknown+-+Limburg+%F0%9F%9F%A0+170+%E2%9A%A1194.3KB%2Fs+VLESS
 socks5://195.19.50.226:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://195.245.238.86:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%8C%90+Unknown+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A12817.0KB%2Fs+HYSTERIA2
 socks5://206.123.156.222:6361#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://890cb407-0d00-4337-9e5d-b4df06a1635c@209.33.160.242:443?type=ws&security=tls&fp=random&sni=auv.vavava.kdns.fr&path=/%3Fed%3D2560&host=auv.vavava.kdns.fr#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
@@ -102,7 +103,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8
 vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#%F0%9F%8C%90+Unknown+-+West+Pomerania+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%F0%9F%8C%90+Unknown+-+Astana+%F0%9F%9F%A1+310+%E2%9A%A175.5KB%2Fs+VLESS
 vless://d8a8fb02-a05b-4fa4-8f17-09ab74d63473@85.113.71.97:8080?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amazon.com&pbk=gIZroPoitLL_o4L_u4krqQl_y5PcwlZDH3VogB789Fg&spx=%2F&flow=xtls-rprx-vision#%F0%9F%8C%90+Unknown+-+Sai+Kung+District+%F0%9F%9F%A0+170+%E2%9A%A1n%2Fa+VLESS
-socks5://85.237.206.150:1234#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+SOCKS
+http://85.237.206.150:1234#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
+socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e#%F0%9F%8C%90+Unknown+-+Riga+%F0%9F%9F%A1+310+%E2%9A%A127.8KB%2Fs+VLESS
 socks5://91.218.114.118:1080#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vmess://eyJhZGQiOiI5My45My44OC4yMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTEtNDExLm1pcnJhLm5vdyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgVW5rbm93biAtIE5vcnRoIEhvbGxhbmQg8J+foCAyMDAg4pqhNDMuOEtCL3MgVk1FU1MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
