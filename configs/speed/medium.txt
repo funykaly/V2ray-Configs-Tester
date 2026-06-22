@@ -1,5 +1,5 @@
 vless://e6cc4788-3c45-4df1-94f3-8303504a65bf@104.17.247.68:443?encryption=none&type=ws&security=tls&path=%2Fsync&host=khoda.ak-khoda.workers.dev&sni=khoda.ak-khoda.workers.dev&fp=chrome&insecure=0&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1+Poland+-+Mazovia+%F0%9F%9F%A1+310+%E2%9A%A11039.7KB%2Fs+VLESS
-vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%8C%90+Unknown+-+Oslo+%F0%9F%9F%A0+170+%E2%9A%A11237.0KB%2Fs+VLESS
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@144.31.217.99:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&security=reality&sni=google.com&type=tcp#%F0%9F%8C%90+Unknown+-+Oslo+%F0%9F%9F%A0+170+%E2%9A%A11237.0KB%2Fs+VLESS
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%8C%90+Unknown+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A12817.0KB%2Fs+HYSTERIA2
 http://217.209.35.22:443#%F0%9F%8C%90+Unknown+-+V%C3%A4stra+G%C3%B6taland+County+%F0%9F%94%B4+120+%E2%9A%A13190.3KB%2Fs+HTTP
