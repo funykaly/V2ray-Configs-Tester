@@ -13,6 +13,20 @@ ProxyHarvest Sentinel is a Go-first CLI that collects proxy configs from subscri
 - Writes categorized output files by country, protocol, security level, and speed bucket.
 - Optionally syncs exported text files to a GitHub repository.
 
+## Recommended Subscription Feed
+ 
+The file below is the main output of this project. It is generated through continuous collection, analysis, and testing of configurations from 29 different public sources. Only configurations that successfully pass the project’s connection, security, and performance tests are included in this file:
+ 
+```https://raw.githubusercontent.com/funykaly/V2ray-Tester/refs/heads/main/configs/all_secure.txt```
+ 
+To help identify clean and healthy Cloudflare IPs, this testing tool uses Cloudflare-based speed tests as part of its validation process.
+ 
+Also note that if a configuration name does not include a speed value , it means that the IP is not clean. It has been rejected by Cloudflare
+ 
+ 
+**Note:** If this subscription has not been updated for a long time, it usually means the testing server is temporarily unavailable due to maintenance, updates, or operational reasons. Since the ProxyHarvest Sentinel project is fully open-source, users can run the project themselves following the provided instructions to generate an up-to-date and personalized list of healthy and secure configurations.
+
+
 ## How Scraping Works
 
 1. The runtime loads `config.json` and creates missing runtime paths.
