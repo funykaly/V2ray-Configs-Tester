@@ -57,3 +57,4 @@ http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://87.255.28.101:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Jersey+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+vless://@Net2ray@94.182.145.82:6666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7+Iran+-+Tehran+%F0%9F%94%B4+60+%E2%9A%A12.4KB%2Fs+VLESS
