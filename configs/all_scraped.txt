@@ -12362,6 +12362,7 @@ http://45.70.236.194:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://45.73.0.118:5678#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://a3ba189d-d6d6-4f46-a575-6647d1f7cb36@45.74.159.138:2053?security=reality&encryption=none&pbk=mt8WJF8MDM9oHts_TRFLU9skAYb0KAwwwr8B2UjwqzY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9adbd70b13ab0f7a#%F0%9F%87%A8%F0%9F%87%A6+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://d7a746ad-3446-4071-854b-464e5e0c7171@45.74.159.218:2035?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://a321e2e3-ff36-4f86-830f-03bb893ccda9@45.74.159.218:2036?security=reality&encryption=none&pbk=YNbM8Fz8a0sKWKst3LTjtkdrIfyoI1aBwSt6B48mEFs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=9d96d3cb#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.76.102.47:443?security=tls&type=ws&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&host=t1s1.rittbo.kdns.fr&fp=chrome&sni=t1s1.rittbo.kdns.fr&path=%2F&encryption=none#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks5://45.76.104.16:1080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 socks5://45.76.13.121:49995#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
@@ -15336,7 +15337,7 @@ vless://6af0d18d-30ac-4002-a25e-0a16ba00d637@91.107.160.147:80?security=tls&encr
 vless://96b43cf5-e7c2-45b4-acdc-9fc68b814e6a@91.107.160.240:15684?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 ss://YWVzLTI1Ni1nY206Y3dyemNLeEtFeQ@91.107.160.240:34092#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SS
 http://91.107.163.9:82#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
-vless://ab5098d9-2fee-476b-8b78-13bc83247dde@91.107.165.205:443?encryption=none&security=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://67127d85-1805-471d-a7af-440618582d31@91.107.165.205:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://7a61b3fa-42b8-46fe-80d5-76a5220119ed@91.107.166.143:443?encryption=none&type=tcp&headerType=http&host=play.google.com#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vmess://eyJhZGQiOiI5MS4xMDcuMTY2LjIzMSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODIyYTY0NmUtNmY2OS00NzU4LTkwMDgtNDk0ZTEzN2UyNmFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL0BoYXNobWFrdnBuIPCfh6nwn4eqIiwicG9ydCI6IjgwODEiLCJwcyI6IvCfjJAgVW5rbm93biDimqogMCDimqFuL2EgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoic25hcHAuaXIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 vless://3b0d0482-187d-4f9d-a448-f99c41eec1ea@91.107.166.66:4043?security=reality&encryption=none&pbk=ymlfKdtlbiHM7nfc15dfg_bnv0tnyd3GZR06Gz5W6R4&headerType=none&fp=chrome&spx=/rkUO2l8YDWFCnk3&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=9aca3d#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
