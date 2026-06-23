@@ -1,5 +1,5 @@
 http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
-http://103.129.127.244:8088#%F0%9F%87%BB%F0%9F%87%B3+Vietnam+-+Ho+Chi+Minh+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://103.129.127.244:8088#%F0%9F%8C%90+Unknown+-+Ho+Chi+Minh+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://129.226.92.241:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A175.6KB%2Fs+HTTP
 http://13.38.27.183:23548#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.41.196.179:47196#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -20,8 +20,8 @@ http://15.237.108.20:51318#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 http://18.170.25.193:73#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://18.170.25.193:9160#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://185.191.239.248:3128#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12571.0KB%2Fs+HTTP
+http://18.170.25.193:9160#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12571.0KB%2Fs+HTTP
 http://185.196.61.251:8081#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://185.86.78.190:3128#%F0%9F%87%BA%F0%9F%87%A6+Ukraine+-+Khmelnytskyi+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://203.90.233.11:8080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A128.3KB%2Fs+HTTP
