@@ -1,2 +1,0 @@
-http://18.170.25.193:73#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-socks5://206.123.156.234:6196#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+State+of+Berlin+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
