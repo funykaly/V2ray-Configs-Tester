@@ -8141,7 +8141,6 @@ socks5://188.235.21.247:2080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOC
 http://188.235.21.247:8080#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 http://188.239.43.6:80#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks5://188.242.163.28:21#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-http://188.245.92.172:10808#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 socks4://188.247.39.14:43032#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.15:47909?allowInsecure=1&sni=is.01.naiun.bilibili.com#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+TROJAN
@@ -9509,7 +9508,7 @@ vmess://eyJhZGQiOiIyMDQuMTUuNzQuNzUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjcxM2E5MWM2
 http://204.157.251.213:999#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
 vless://a9411912-a9ed-4ef2-b36a-92987cd63bf1@204.168.185.202:8080?security=reality&encryption=none&pbk=bhoenokqHQgYh_tgKKyGmqz6vNUrXlD1NQvk0rxu-js&headerType=none&fp=firefox&spx=%2FonnFnguFPjnLaV3&type=tcp&sni=www.sony.com&sid=8d54ded2b008#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 socks4://204.216.136.58:9050#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
-http://204.48.29.137:3129#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+HTTP
+http://204.48.29.137:3129#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Jersey+%F0%9F%94%B4+120+%E2%9A%A133.4KB%2Fs+HTTP
 socks5://204.93.169.232:60755#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+SOCKS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.160:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@204.93.210.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#%F0%9F%8C%90+Unknown+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
