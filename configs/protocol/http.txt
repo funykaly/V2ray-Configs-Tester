@@ -21,6 +21,7 @@ http://144.31.222.106:7890#%F0%9F%8C%90+Unknown+-+Moscow+Oblast+%F0%9F%94%B4+120
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1895.8KB%2Fs+HTTP
 http://15.237.108.20:51318#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://174.137.134.182:2999#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1959.2KB%2Fs+HTTP
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 http://18.170.25.193:73#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:9160#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
