@@ -17,7 +17,7 @@ http://13.60.181.61:13643#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%
 http://13.60.181.61:140#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:58029#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1301.5KB%2Fs+HTTP
 http://139.59.59.122:8118#%F0%9F%8C%90+Unknown+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A177.6KB%2Fs+HTTP
-http://144.31.222.106:7890#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Moscow+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://144.31.222.106:7890#%F0%9F%8C%90+Unknown+-+Moscow+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1895.8KB%2Fs+HTTP
 http://15.237.108.20:51318#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
