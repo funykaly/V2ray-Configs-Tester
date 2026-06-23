@@ -35,7 +35,6 @@ socks5://150.109.158.60:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2
 http://16.52.81.236:49228#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.62.229.137:12989#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1959.2KB%2Fs+HTTP
-http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 socks5://178.16.140.119:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://178.47.142.219:1080#%F0%9F%8C%90+Unknown+-+Sverdlovsk+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://18.170.25.193:73#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
