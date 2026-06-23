@@ -20596,7 +20596,7 @@ ss://voidglitch@snapp.ir:2086?path=/&security=none&encryption=none&host=fast.she
 vless://b311f4fb-8e83-40d7-0b91-ff94e5156e41@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.qorilo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.qorilo.ir#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://07dce2d7-9849-4e22-adb9-36d2763c3b89@snapp.ir:2095?path=/&security=none&encryption=none&host=api.aramonlineshop.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://a4ec2a04-fb52-4c80-86bb-5cedb6df9655@snapp.ir:8080/?type=ws&encryption=none&path=/ray&host=dwn.budgetnet.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
-vless://cac0b33b-e5bd-48de-89dd-783fe5fb384e@snapp.ir:80?type=ws&encryption=none&path=%2F&host=v2meli.bestiran98.ir&security=none#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
+vless://1c111ccf-bc41-4f4e-a641-ebefe04e6306@snapp.ir:80?path=%2F&security=none&encryption=none&host=veryfast2.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://202faa29-6450-4415-9e1f-0a5ad08fc538@snapp.ir:8080?path=%2Fray&security=none&encryption=none&host=dwn.budgetnet.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://177e5166-dccd-41a9-8b3c-86c6f1000fb2@snapp.ir:8880?path=%2F&security=none&encryption=none&host=vip2.mmdelm.sbs&type=ws#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
 vless://421e0bf7-fecd-4983-911e-9b41159389fc@snappfood.ir:443?path=/bspath&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=vaslbashi.tooorkshop.ir#%F0%9F%87%AE%F0%9F%87%B7+Iran+%E2%9A%AA+0+%E2%9A%A1n%2Fa+VLESS
