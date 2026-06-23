@@ -1,5 +1,6 @@
 http://13.60.163.108:59710#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:58029#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+socks5://195.133.11.71:1080#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A13337.3KB%2Fs+HYSTERIA2
 socks5://206.123.156.227:23998#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://35.180.75.159:243#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
