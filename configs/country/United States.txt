@@ -6,3 +6,4 @@ http://3.19.213.118:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94
 http://3.84.130.47:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1962.6KB%2Fs+HTTP
 http://3.90.161.248:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1973.2KB%2Fs+HTTP
 vless://27f914c5-bdcc-441a-9459-368daf552606@media6.hihidress.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.mi.com&fp=chrome&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A1+350+%E2%9A%A1n%2Fa+VLESS
+hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?security=tls&insecure=0&sni=wuhantravel.duckdns.org#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Jersey+%F0%9F%9F%A0+180+%E2%9A%A12965.0KB%2Fs+HYSTERIA2
