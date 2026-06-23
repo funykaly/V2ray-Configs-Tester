@@ -4,5 +4,5 @@ http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12571.0KB%2Fs+HTTP
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%8C%90+Unknown+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A14215.3KB%2Fs+HYSTERIA2
 socks5://5.45.125.201:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A13059.3KB%2Fs+SOCKS
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=1&sni=hy2-new.aspidnet.xyz#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+240+%E2%9A%A13659.0KB%2Fs+HYSTERIA2
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+240+%E2%9A%A13659.0KB%2Fs+HYSTERIA2
 hysteria2://MySecurePassword123@wuhantravel.duckdns.org:8443?security=tls&insecure=0&sni=wuhantravel.duckdns.org#%F0%9F%8C%90+Unknown+-+New+Jersey+%F0%9F%9F%A0+180+%E2%9A%A13120.2KB%2Fs+HYSTERIA2
