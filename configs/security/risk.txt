@@ -165,6 +165,7 @@ http://52.47.115.41:25308#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%
 http://52.47.115.41:2957#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:47115#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:52305#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://65.108.203.35:28080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1613.2KB%2Fs+HTTP
 http://71.168.71.12:8889#%F0%9F%8C%90+Unknown+-+New+Hampshire+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.210.25.62:8888#%F0%9F%8C%90+Unknown+-+Central+and+Western+District+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+HTTP
 socks5://8.219.90.69:8888#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
