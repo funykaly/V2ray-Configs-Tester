@@ -1,8 +1,9 @@
 socks5://178.16.140.119:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+http://18.222.132.180:58080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://206.123.156.206:14822#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
 socks5://206.123.156.218:17706#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A173.5KB%2Fs+SOCKS
 http://3.19.213.118:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://3.19.213.118:53766#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.84.130.47:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1962.6KB%2Fs+HTTP
 http://3.90.161.248:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1973.2KB%2Fs+HTTP
-http://71.168.71.12:8889#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Hampshire+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://27f914c5-bdcc-441a-9459-368daf552606@media6.hihidress.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.mi.com&fp=chrome&pbk=zCeRZCK7gCGFmPlOzBaTWHVkmysMFJlPqgDTPZRjRx0&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A1+350+%E2%9A%A1n%2Fa+VLESS
