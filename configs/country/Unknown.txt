@@ -83,7 +83,6 @@ socks5://206.123.156.243:21053#%F0%9F%8C%90+Unknown+-+Uttar+Pradesh+%F0%9F%94%B4
 socks5://206.123.156.243:5081#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%94%B4+120+%E2%9A%A189.3KB%2Fs+SOCKS
 http://3.99.158.157:50048#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.36:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&security=reality&sid=7a3f9e2b1c8d4f6a&sni=jp.s3-cloud.org&type=tcp#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A0+200+%E2%9A%A117.9KB%2Fs+VLESS
-vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&sid=32a8bfa2939125&spx=/&type=tcp&headerType=none#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%9F%A1+310+%E2%9A%A13.4KB%2Fs+VLESS
 http://35.183.127.162:58234#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.40.148.140:80?type=ws&security=none&fp=firefox&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=s5.868001.xyz#%F0%9F%8C%90+Unknown+-+Arizona+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A0+190+%E2%9A%A1160.9KB%2Fs+HYSTERIA2
