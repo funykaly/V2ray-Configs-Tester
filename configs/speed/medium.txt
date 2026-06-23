@@ -1,5 +1,4 @@
 vless://eeb04922-1715-4604-8d21-c0f13f13452c@109.248.161.167:44025?security=reality&encryption=none&pbk=DLkU3-GL7DvVDWo-1qvM4GvXfoCQ2Uy3EWj_OqNYW0s&headerType=none&fp=chrome&spx=/uM2F3R9lyjfUkUV&type=tcp&sni=www.amazon.com&sid=61c3d9cace7e#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%9F%A1+310+%E2%9A%A11355.4KB%2Fs+VLESS
-http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12571.0KB%2Fs+HTTP
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%8C%90+Unknown+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A14215.3KB%2Fs+HYSTERIA2
 socks5://5.45.125.201:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A13059.3KB%2Fs+SOCKS
