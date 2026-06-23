@@ -72,7 +72,6 @@ socks5://206.123.156.221:5508#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120
 socks5://206.123.156.221:8915#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:6568#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:4122#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://206.123.156.223:5533#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:7266#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A196.1KB%2Fs+SOCKS
 socks5://206.123.156.224:40856#%F0%9F%8C%90+Unknown+-+Uttar+Pradesh+%F0%9F%94%B4+120+%E2%9A%A1113.3KB%2Fs+SOCKS
 socks5://206.123.156.224:6306#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -120,7 +119,6 @@ socks5://45.76.177.35:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.77.241.64:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9F%9F%A1+320+%E2%9A%A1n%2Fa+VLESS
 socks5://46.146.220.247:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Perm+Krai+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443/?sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A0+200+%E2%9A%A1177.5KB%2Fs+HYSTERIA2
-socks5://47.238.92.79:2080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 socks5://47.82.65.57:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 socks5://47.82.65.57:1081#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A19.4KB%2Fs+SOCKS
 socks5://5.45.118.209:1080#%F0%9F%8C%90+Unknown+-+Ida-Virumaa+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
