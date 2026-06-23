@@ -1,7 +1,6 @@
 socks5://103.179.44.48:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+East+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://103.231.57.65:5555#%F0%9F%8C%90+Unknown+-+Kwun+Tong+District+%F0%9F%94%B4+120+%E2%9A%A140.0KB%2Fs+SOCKS
 socks5://119.148.7.10:22122#%F0%9F%87%A7%F0%9F%87%A9+Bangladesh+-+Dhaka+Division+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://149.28.156.194:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A124.6KB%2Fs+SOCKS
 socks5://178.16.140.119:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://178.47.142.219:1080#%F0%9F%8C%90+Unknown+-+Sverdlovsk+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.206:14822#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A132.8KB%2Fs+SOCKS
@@ -63,7 +62,6 @@ socks5://206.123.156.223:9411#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+
 socks5://206.123.156.224:7287#%F0%9F%8C%90+Unknown+-+Balearic+Islands+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.225:23370#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.225:5716#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://206.123.156.227:4019#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.227:4631#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.229:4165#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.229:7587#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1160.4KB%2Fs+SOCKS
