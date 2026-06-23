@@ -108,6 +108,6 @@ http://8.210.25.62:8888#%F0%9F%8C%90+Unknown+-+Central+and+Western+District+%F0%
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://87.255.241.149:1080#%F0%9F%8C%90+Unknown+-+Ivanovo+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://87.255.28.101:1080#%F0%9F%8C%90+Unknown+-+New+Jersey+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-ss://%40Net2ray@94.182.145.82:6666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+-+Tehran+%F0%9F%94%B4+60+%E2%9A%A12.4KB%2Fs+SS
+vless://@Net2ray@94.182.145.82:6666?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%8C%90+Unknown+-+Tehran+%F0%9F%94%B4+60+%E2%9A%A12.4KB%2Fs+VLESS
 socks5://94.19.196.185:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%94%B4+120+%E2%9A%A1840.6KB%2Fs+SOCKS
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
