@@ -1,2 +1,1 @@
-http://185.196.61.251:8081#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?security=tls&sni=vpn5.rnmcnm.com&insecure=0&allowInsecure=0&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A0+240+%E2%9A%A1n%2Fa+TROJAN
