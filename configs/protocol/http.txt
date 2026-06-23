@@ -45,7 +45,6 @@ http://52.47.115.41:25308#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%
 http://52.47.115.41:2957#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:52305#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A132.3KB%2Fs+HTTP
-http://64.181.248.13:10808#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
 http://71.168.71.12:8889#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Hampshire+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://78.135.93.101:3128#%F0%9F%8C%90+Unknown+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
