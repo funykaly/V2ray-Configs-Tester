@@ -1,5 +1,6 @@
 http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 http://129.226.92.241:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A175.6KB%2Fs+HTTP
+http://13.41.196.179:47196#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.41.196.179:58910#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.48.13.125:30604#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.51.196.44:17625#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -12,6 +13,7 @@ http://13.60.181.61:140#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4
 http://13.60.181.61:58029#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1301.5KB%2Fs+HTTP
 http://139.59.59.122:8118#%F0%9F%8C%90+Unknown+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A177.6KB%2Fs+HTTP
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1895.8KB%2Fs+HTTP
+http://15.237.108.20:51318#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 http://18.170.25.193:73#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -28,6 +30,7 @@ http://51.84.101.19:38256#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9
 http://52.47.115.41:52305#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://54.255.119.3:9090#%F0%9F%8C%90+Unknown+-+Central+Singapore+%F0%9F%94%B4+120+%E2%9A%A132.3KB%2Fs+HTTP
 http://64.188.125.187:3128#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%94%B4+120+%E2%9A%A1288.3KB%2Fs+HTTP
-http://78.135.93.101:3128#%F0%9F%87%B9%F0%9F%87%B7+Turkey+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://78.135.93.101:3128#%F0%9F%8C%90+Unknown+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.210.25.62:8888#%F0%9F%8C%90+Unknown+-+Central+and+Western+District+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+HTTP
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://95.3.69.222:8080#%F0%9F%87%B9%F0%9F%87%B7+T%C3%BCrkiye+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
