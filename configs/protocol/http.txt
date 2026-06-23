@@ -21,6 +21,8 @@ http://144.31.222.106:7890#%F0%9F%8C%90+Unknown+-+Moscow+Oblast+%F0%9F%94%B4+120
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1895.8KB%2Fs+HTTP
 http://15.237.108.20:51318#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://16.52.81.236:49228#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://16.62.229.137:12989#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1959.2KB%2Fs+HTTP
 http://176.111.37.5:39811#%F0%9F%8C%90+Unknown+-+Luhansk+%F0%9F%94%B4+120+%E2%9A%A12359.4KB%2Fs+HTTP
 http://18.170.25.193:73#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -34,7 +36,10 @@ http://213.131.85.30:1981#%F0%9F%87%AA%F0%9F%87%AC+Egypt+-+Beheira+%F0%9F%94%B4+
 http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1931.8KB%2Fs+HTTP
 http://3.84.130.47:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1962.6KB%2Fs+HTTP
 http://3.90.161.248:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1973.2KB%2Fs+HTTP
+http://3.99.158.157:50048#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://35.180.75.159:243#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.180.75.159:24970#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://35.183.127.162:58234#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://43.167.192.85:8080#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.17.154.141:2791#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:24541#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -50,5 +55,5 @@ http://71.168.71.12:8889#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+Hampshire+
 http://78.135.93.101:3128#%F0%9F%8C%90+Unknown+-+Bursa+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://8.210.25.62:8888#%F0%9F%8C%90+Unknown+-+Central+and+Western+District+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+HTTP
 http://8.219.97.248:80#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://85.239.38.194:3128#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://85.239.38.194:3128#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
