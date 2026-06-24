@@ -57,7 +57,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.182.151:80?encryption=none&
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.199.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90+Unknown+-+California+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.253.151:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90+Unknown+-+Bavaria+%F0%9F%9F%A1+270+%E2%9A%A117.8KB%2Fs+VLESS
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.49.151:80?path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90+Unknown+-+California+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.70.151:80?path=%2F&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#%F0%9F%8C%90+Unknown+-+Illinois+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.70.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90+Unknown+-+Illinois+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.116:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%9F%A0+140+%E2%9A%A1n%2Fa+VLESS
 http://16.18.37.186:28493#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.18.37.186:53346#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -80,6 +80,7 @@ socks5://206.123.156.223:7044#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E
 socks5://206.123.156.223:8197#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.223:8839#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.227:5434#%F0%9F%8C%90+Unknown+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A1432.9KB%2Fs+SOCKS
+socks5://206.123.156.230:4071#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.230:6896#%F0%9F%8C%90+Unknown+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1314.9KB%2Fs+SOCKS
 socks5://206.123.156.234:5881#%F0%9F%8C%90+Unknown+-+Maharashtra+%F0%9F%94%B4+120+%E2%9A%A163.9KB%2Fs+SOCKS
 socks5://206.123.156.238:11070#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -101,6 +102,7 @@ vless://a3585167-b919-4067-c770-972d53aedc5e@45.130.125.107:443?encryption=none&
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A16.7KB%2Fs+SOCKS
 hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A0+190+%E2%9A%A1160.9KB%2Fs+HYSTERIA2
 http://51.17.154.141:44487#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://51.17.154.141:8080#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.34.28.236:10113#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.34.28.236:37918#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.44.97.6:50932#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
