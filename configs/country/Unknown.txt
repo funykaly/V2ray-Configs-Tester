@@ -10,7 +10,7 @@ http://13.48.13.125:36430#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%
 http://13.51.196.44:44799#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.53.139.178:50864#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#%F0%9F%8C%90+Unknown+-+Flevoland+%F0%9F%9F%A0+190+%E2%9A%A1112.6KB%2Fs+HYSTERIA2
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@138.2.87.237:443?path=%2F&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 vless://eeb6823c-b926-4ea2-866a-5542edd26e59@139.180.220.7:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 socks5://140.235.38.33:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://140.235.38.36:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -42,7 +42,6 @@ http://16.52.76.191:36910#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A
 http://16.62.229.137:12989#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://168.222.254.26:8888#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1959.2KB%2Fs+HTTP
-socks5://178.47.142.219:1080#%F0%9F%8C%90+Unknown+-+Sverdlovsk+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://18.222.132.180:58080#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://185.125.201.149:7443#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://195.133.11.71:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
