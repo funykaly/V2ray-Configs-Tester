@@ -1,4 +1,4 @@
-http://1.231.81.166:3128#%F0%9F%8C%90+Unknown+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
+http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.0KB%2Fs+HTTP
 socks5://103.115.109.229:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+TROJAN
 http://103.189.197.43:7778#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -56,7 +56,6 @@ http://15.161.228.22:59791#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B
 http://15.161.59.54:10159#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.59.54:27618#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.59.54:57927#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://15.204.151.141:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.223.237.12:56538#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:59303#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -84,6 +83,7 @@ http://18.222.132.180:9990#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A
 socks5://185.125.201.149:7443#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12366.1KB%2Fs+HTTP
 http://188.134.85.189:8118#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://188.166.12.117:3128#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A12293.8KB%2Fs+HTTP
 socks5://188.235.142.248:1080#%F0%9F%8C%90+Unknown+-+Saratov+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://195.133.11.71:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://202.148.221.58:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -114,16 +114,17 @@ socks5://206.123.156.235:5777#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+H
 socks5://206.123.156.236:18747#%F0%9F%87%AE%F0%9F%87%B3+India+-+Uttar+Pradesh+%F0%9F%94%B4+120+%E2%9A%A148.1KB%2Fs+SOCKS
 socks5://206.123.156.238:11070#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.238:6926#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://212.58.132.5:1080#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://212.58.132.5:1080#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://212.87.198.96:1080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://27.254.99.183:8118#%F0%9F%8C%90+Unknown+-+Bangkok+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.19.213.118:8000#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1885.5KB%2Fs+HTTP
 http://3.99.158.157:10283#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://3.99.158.157:15238#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://3.99.158.157:15238#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:50048#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:54178#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:54722#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://35.182.12.78:27693#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://35.182.12.78:27693#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.182.12.78:47591#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.183.127.162:11584#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.183.127.162:16189#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
