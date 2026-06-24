@@ -65,7 +65,7 @@ http://16.62.123.236:20290#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%
 http://16.62.123.236:29915#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1353.2KB%2Fs+HTTP
 http://168.222.254.26:8888#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1978.3KB%2Fs+HTTP
-http://178.156.224.42:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:131#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:3376#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:74#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
