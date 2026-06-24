@@ -162,6 +162,7 @@ http://27.254.99.183:8118#%F0%9F%8C%90+Unknown+-+Bangkok+%F0%9F%94%B4+120+%E2%9A
 http://3.19.213.118:3128#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.19.213.118:53766#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.19.213.118:8000#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://7f4eae14-b205-610d-c8b4-1046de33e7d5@3.86.85.68:443?path=/sync&security=tls&encryption=none&insecure=0&host=water.erfi21.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=water.erfi21.workers.dev#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%9F%A0+150+%E2%9A%A174.1KB%2Fs+VLESS
 http://3.99.158.157:10283#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:15238#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:50048#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
