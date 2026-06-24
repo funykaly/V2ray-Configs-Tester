@@ -1,2 +1,1 @@
 http://188.134.85.189:8118#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-socks5://188.235.142.248:1080#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Saratov+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
