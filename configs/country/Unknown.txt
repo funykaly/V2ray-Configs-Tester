@@ -69,7 +69,6 @@ socks5://188.235.142.248:1080#%F0%9F%8C%90+Unknown+-+Saratov+Oblast+%F0%9F%94%B4
 socks5://195.133.11.71:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:443?path=%2F&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%9F%A1+310+%E2%9A%A12674.9KB%2Fs+VLESS
 socks5://202.148.221.58:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-http://203.162.13.222:6868#%F0%9F%8C%90+Unknown+-+Ho+Chi+Minh+City+%28HCMC%29+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+HTTP
 socks5://206.123.156.206:6239#%F0%9F%8C%90+Unknown+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1194.4KB%2Fs+SOCKS
 socks5://206.123.156.213:6036#%F0%9F%8C%90+Unknown+-+Valencia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.220:11698#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -84,8 +83,6 @@ socks5://206.123.156.238:11070#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+12
 socks5://212.87.198.96:1080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@213.35.127.18:443?security=tls&sni=hhcm.hhxaf.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query&type=ws&host=hhcm.hhxaf.cc.cd&path=/#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A1+320+%E2%9A%A1n%2Fa+TROJAN
 http://27.254.99.183:8118#%F0%9F%8C%90+Unknown+-+Bangkok+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://3.19.213.118:3128#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://3.19.213.118:53766#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:15238#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A117.9KB%2Fs+VLESS
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.36:443?sni=jp.s3-cloud.org&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A0+200+%E2%9A%A119.0KB%2Fs+VLESS
