@@ -4,8 +4,8 @@ http://103.129.127.244:8088#%F0%9F%8C%90+Unknown+-+Ho+Chi+Minh+%F0%9F%94%B4+120+
 http://103.189.197.43:7778#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://103.203.233.130:8585#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+East+Java+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://104.219.236.127:1080#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+http://13.38.217.179:18080#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.38.217.179:43121#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://13.38.27.183:23548#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.41.196.179:22109#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.41.196.179:3128#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.41.196.179:47196#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -25,6 +25,7 @@ http://13.53.139.178:50864#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94
 http://13.60.163.108:36926#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.163.108:47834#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.163.108:59710#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://13.60.181.61:57087#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:58029#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://140.235.38.33:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://142.93.98.224:1080#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
@@ -44,6 +45,7 @@ http://15.161.228.22:36440#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%
 http://15.204.151.141:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.237.108.20:51939#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://150.109.158.60:1080#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+http://16.18.37.186:28493#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.18.37.186:47262#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.18.37.186:53346#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.76.191:36910#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+HTTP
