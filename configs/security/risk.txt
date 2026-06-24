@@ -160,7 +160,7 @@ http://52.47.115.41:40293#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4
 http://52.47.115.41:47115#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://65.108.203.35:28080#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1613.2KB%2Fs+HTTP
 http://65.108.203.36:18080#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#%F0%9F%87%B7%F0%9F%87%B4+Unknown+-+Bucharest+%F0%9F%94%B4+40+%E2%9A%A1n%2Fa+VLESS
+vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#%F0%9F%8C%90+Unknown+-+Bucharest+%F0%9F%94%B4+40+%E2%9A%A1n%2Fa+VLESS
 socks5://85.237.207.49:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A15.5KB%2Fs+SOCKS
 http://85.239.38.194:3128#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://92.113.32.17:1081#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
