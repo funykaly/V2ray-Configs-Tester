@@ -9,6 +9,7 @@ vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?encryption=none
 http://13.41.196.179:57056#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.48.13.125:14084#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.48.13.125:36430#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://13.48.13.125:8080#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.51.196.44:44799#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.53.139.178:50864#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#%F0%9F%8C%90+Unknown+-+Flevoland+%F0%9F%9F%A0+190+%E2%9A%A1112.6KB%2Fs+HYSTERIA2
@@ -74,6 +75,7 @@ socks5://195.133.11.71:1080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+12
 socks5://200.9.155.230:1080#%F0%9F%8C%90+Unknown+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+SOCKS
 socks5://202.148.221.58:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://203.162.13.222:6868#%F0%9F%8C%90+Unknown+-+Ho+Chi+Minh+City+%28HCMC%29+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+HTTP
+socks5://206.123.156.213:6036#%F0%9F%8C%90+Unknown+-+Valencia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.222:6589#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A151.4KB%2Fs+SOCKS
 socks5://206.123.156.223:7044#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.227:5434#%F0%9F%8C%90+Unknown+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A1432.9KB%2Fs+SOCKS
