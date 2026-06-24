@@ -40,6 +40,7 @@ http://15.161.131.175:20251#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2
 http://15.161.131.175:25325#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.131.175:38371#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.131.175:47394#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://15.161.131.175:56433#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:22401#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:23604#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:32895#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A11250.2KB%2Fs+HTTP
@@ -74,6 +75,7 @@ http://213.131.85.30:1981#%F0%9F%87%AA%F0%9F%87%AC+Egypt+-+Beheira+%F0%9F%94%B4+
 http://27.254.99.183:8118#%F0%9F%8C%90+Unknown+-+Bangkok+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.19.213.118:3128#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.19.213.118:53766#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://3.19.213.118:8000#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.90.161.248:3128#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1973.2KB%2Fs+HTTP
 http://3.99.158.157:10283#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:15238#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -96,6 +98,7 @@ http://51.34.28.236:10113#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%
 http://51.34.28.236:28752#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.34.28.236:37918#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.34.28.236:39090#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://51.34.28.236:47493#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.44.97.6:47297#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.44.97.6:50932#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.44.97.6:55774#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
