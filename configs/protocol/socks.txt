@@ -37,6 +37,7 @@ socks5://206.123.156.235:5777#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+H
 socks5://206.123.156.236:18747#%F0%9F%87%AE%F0%9F%87%B3+India+-+Uttar+Pradesh+%F0%9F%94%B4+120+%E2%9A%A148.1KB%2Fs+SOCKS
 socks5://206.123.156.238:11070#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.238:6926#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+socks5://212.58.132.5:1080#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://212.87.198.96:1080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://36.50.249.56:50161#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://38.182.122.86:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
