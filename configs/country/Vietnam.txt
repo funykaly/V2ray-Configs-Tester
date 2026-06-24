@@ -1,2 +1,3 @@
 socks5://206.123.156.218:7070#%F0%9F%87%BB%F0%9F%87%B3+Vietnam+-+Ho+Chi+Minh+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:8814#%F0%9F%87%BB%F0%9F%87%B3+Vietnam+-+Ho+Chi+Minh+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
+trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%87%BB%F0%9F%87%B3+Vietnam+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+TROJAN
