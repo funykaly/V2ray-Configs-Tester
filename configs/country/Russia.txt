@@ -1,2 +1,1 @@
 vless://33de2596-d95d-412b-a8c2-410be7060ca3@147.45.175.79:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+Moscow+%F0%9F%9F%A1+280+%E2%9A%A1150.6KB%2Fs+VLESS
-http://188.134.85.189:8118#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
