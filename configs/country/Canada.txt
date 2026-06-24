@@ -7,6 +7,7 @@ http://16.52.81.236:32921#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4
 http://16.52.81.236:33758#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:49228#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:8411#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://577699f7-468d-4b63-ae21-cdcdfd8d11c2@172.67.74.10:443?path=%2FGoorBah&security=tls&encryption=none&insecure=0&host=baguette.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=baguette.adaspoloandco.com#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%9F%A1+310+%E2%9A%A1259.4KB%2Fs+VLESS
 http://3.99.158.157:10283#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:50048#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://3.99.158.157:54178#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
