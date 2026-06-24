@@ -1,4 +1,4 @@
-http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
+http://1.231.81.166:3128#%F0%9F%8C%90+Unknown+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+HTTP
 http://103.189.197.43:7778#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://103.203.233.130:8585#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+East+Java+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.38.217.179:18080#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -109,8 +109,9 @@ http://51.44.97.6:50932#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+1
 http://51.44.97.6:55774#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:119#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:24541#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://51.84.101.19:36755#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:8028#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://52.47.115.41:18754#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://52.47.115.41:18754#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:31802#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:40293#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:47115#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
