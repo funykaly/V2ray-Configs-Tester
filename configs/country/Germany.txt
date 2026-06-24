@@ -1,3 +1,5 @@
 http://13.38.217.179:18080#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.160.116.45:34630#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Bavaria+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@167.233.44.39:2096?encryption=none&type=grpc&serviceName=fast-domain-gb.dhbhvfbhfbvhfbvhfbhv.shop&path=/#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Bavaria+%F0%9F%9F%A0+190+%E2%9A%A1741.8KB%2Fs+VLESS
+http://52.47.115.41:52305#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://8fb6e894-b929-491a-a25a-8e7d395dda8d@poom.hardvezoo.ir:5875?security=none&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Istanbul+%F0%9F%9F%A0+190+%E2%9A%A1133.4KB%2Fs+VLESS
