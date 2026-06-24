@@ -57,6 +57,7 @@ socks5://178.16.140.119:1080#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F
 socks5://178.47.142.219:1080#%F0%9F%8C%90+Unknown+-+Sverdlovsk+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://18.170.25.193:9160#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.222.132.180:58080#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+socks5://185.125.201.149:7443#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12571.0KB%2Fs+HTTP
 http://185.86.78.190:3128#%F0%9F%8C%90+Unknown+-+Khmelnytskyi+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://188.134.85.189:8118#%F0%9F%87%B7%F0%9F%87%BA+Russia+-+St.-Petersburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
