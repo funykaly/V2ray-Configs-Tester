@@ -216,6 +216,7 @@ vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
 socks5://85.237.207.49:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A15.5KB%2Fs+SOCKS
 http://85.239.38.194:3128#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://067a6239-4c7b-4d3a-b085-9fd984a1a43b@91.199.43.135:8443?security=reality&encryption=none&pbk=Cyv34CNxbEmnx2I79xNKr2c4UqXlm8f8tJ46e2SYe1Y&headerType=&fp=chrome&type=tcp&sni=www.tgju.org&sid=e87f4f53a0b9d6#%F0%9F%87%AE%F0%9F%87%B7+Iran+-+Tehran+%F0%9F%9F%A1+310+%E2%9A%A14.5KB%2Fs+VLESS
 socks5://92.113.32.17:1081#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://99.79.58.74:8181#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A132.4KB%2Fs+HTTP
