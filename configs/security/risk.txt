@@ -4,7 +4,6 @@ trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&inse
 http://103.189.197.43:7778#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+Jakarta+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://103.203.233.130:8585#%F0%9F%87%AE%F0%9F%87%A9+Indonesia+-+East+Java+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://103.227.224.96:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://104.219.236.127:1080#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://13.38.217.179:18080#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.38.217.179:29788#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.38.217.179:43121#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -32,6 +31,7 @@ http://13.60.163.108:47834#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94
 http://13.60.163.108:59710#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:57087#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:58029#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://138.124.110.211:3128#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A11172.0KB%2Fs+HTTP
 socks5://140.235.38.33:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://140.235.38.36:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://140.235.38.56:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A14.4KB%2Fs+SOCKS
@@ -165,7 +165,6 @@ http://65.108.203.35:28080#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%
 http://65.108.203.36:18080#%F0%9F%8C%90+Unknown+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#%F0%9F%8C%90+Unknown+-+Bucharest+%F0%9F%94%B4+40+%E2%9A%A1n%2Fa+VLESS
 socks5://85.237.207.49:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A15.5KB%2Fs+SOCKS
-http://85.239.38.194:3128#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://92.113.32.17:1081#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://99.79.58.74:8181#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A132.4KB%2Fs+HTTP
