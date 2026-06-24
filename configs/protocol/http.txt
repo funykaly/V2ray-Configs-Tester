@@ -99,13 +99,10 @@ http://51.44.97.6:50932#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+1
 http://51.44.97.6:55774#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:119#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:24541#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://51.84.101.19:6849#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:8028#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://52.47.115.41:2957#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:40293#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:47115#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://65.108.203.35:28080#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1613.2KB%2Fs+HTTP
-http://71.168.71.12:8889#%F0%9F%8C%90+Unknown+-+New+Hampshire+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://85.239.38.194:3128#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://99.79.58.74:8181#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A132.4KB%2Fs+HTTP
