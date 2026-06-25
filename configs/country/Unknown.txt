@@ -67,7 +67,6 @@ http://188.166.12.117:3128#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120
 socks5://188.235.142.248:1080#%F0%9F%8C%90+Unknown+-+Saratov+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%9F%A1+310+%E2%9A%A12674.9KB%2Fs+VLESS
 socks5://202.148.221.58:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://206.123.156.210:7499#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1386.6KB%2Fs+SOCKS
 socks5://206.123.156.213:4720#%F0%9F%8C%90+Unknown+-+Maharashtra+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:6036#%F0%9F%8C%90+Unknown+-+Valencia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.218:4684#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
