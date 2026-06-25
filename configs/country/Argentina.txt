@@ -1,0 +1,1 @@
+trojan://MiTiVPN@151.101.217.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#%F0%9F%87%A6%F0%9F%87%B7+Argentina+-+Buenos+Aires+F.D.+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
