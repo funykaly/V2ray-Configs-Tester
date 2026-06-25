@@ -75,7 +75,7 @@ http://16.62.123.236:20290#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%
 http://16.62.123.236:29018#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.62.123.236:443#%F0%9F%87%A8%F0%9F%87%AD+Switzerland+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.62.229.137:805#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1978.3KB%2Fs+HTTP
+http://174.137.134.182:2999#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:131#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:3376#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -119,7 +119,7 @@ http://51.84.101.19:11721#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B
 http://51.84.101.19:119#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:36755#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:8080#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://52.47.115.41:18754#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://52.47.115.41:18754#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:22377#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:31802#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://52.47.115.41:52305#%F0%9F%87%A9%F0%9F%87%AA+Germany+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
