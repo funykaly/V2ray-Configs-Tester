@@ -8,7 +8,6 @@ vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@198.255.96.50:443?sni=yahoo.com&typ
 socks5://206.123.156.209:5011#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Missouri+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:5208#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A197.7KB%2Fs+SOCKS
 http://3.19.213.118:43458#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@45.38.60.139:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=t1s1.rittbo.kdns.fr&path=%2F#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A1+320+%E2%9A%A1n%2Fa+VLESS
 socks4://45.79.203.254:48388#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Georgia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@5.78.163.117:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Oregon+%F0%9F%9F%A1+310+%E2%9A%A125.6KB%2Fs+VLESS
 vless://19e2aaa9-996a-4011-ed75-d8fd376834d0@81.22.132.183:443?path=%2FTG%40wxgqlfx&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=us2.wxgqlfx.icu&fp=chrome&type=ws&allowInsecure=0&sni=us2.wxgqlfx.icu#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+210+%E2%9A%A1164.4KB%2Fs+VLESS
