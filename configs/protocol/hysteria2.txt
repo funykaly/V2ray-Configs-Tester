@@ -1,6 +1,6 @@
 hy2://g00teh7gcl67irgs@167.172.93.124:443/?sni=167.172.93.124#%F0%9F%8C%90+Unknown+-+Sabah+%F0%9F%9F%A0+200+%E2%9A%A11963.9KB%2Fs+HYSTERIA2
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A13829.2KB%2Fs+HYSTERIA2
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
 hy2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#%F0%9F%8C%90+Unknown+-+Uusimaa+%F0%9F%9F%A0+240+%E2%9A%A150.8KB%2Fs+HYSTERIA2
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=1&sni=hy2-new.aspidnet.xyz#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%9F%A0+230+%E2%9A%A13538.6KB%2Fs+HYSTERIA2
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%8C%90+Unknown+-+Flevoland+%F0%9F%9F%A0+240+%E2%9A%A1140.8KB%2Fs+HYSTERIA2
