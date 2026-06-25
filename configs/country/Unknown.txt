@@ -65,7 +65,6 @@ http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%
 http://18.170.25.193:3376#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.222.132.180:4893#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.222.132.180:9990#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-socks5://185.125.201.149:7443#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12366.1KB%2Fs+HTTP
 vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.193.30.140:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=&encryption=none&host=s5.868001.xyz&type=ws#%F0%9F%87%B5%F0%9F%87%B1+Unknown+-+Mazovia+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 http://188.166.12.117:3128#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A12293.8KB%2Fs+HTTP
@@ -95,7 +94,7 @@ trojan://t5FsyeQXkNCY6eVGiqBXmPu4..jBEpNbak@38.60.220.65:443?fp=chrome#%F0%9F%8C
 trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+TROJAN
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+SOCKS
 socks5://45.77.172.250:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A120.5KB%2Fs+SOCKS
-vless://7bd180e8-1142-4387-93f5-03e8d750a896@5.78.26.104:443?path=/7bd180e8&security=tls&encryption=none&insecure=0&host=python-graysongon.wasmer.app&type=ws&allowInsecure=0&sni=python-graysongon.wasmer.app#%F0%9F%8C%90+Unknown+-+Oregon+%F0%9F%9F%A0+200+%E2%9A%A1n%2Fa+VLESS
+vless://7bd180e8-1142-4387-93f5-03e8d750a896@5.78.26.104:443?encryption=none&host=python-graysongon.wasmer.app&path=%2F7bd180e8&security=tls&sni=python-graysongon.wasmer.app&type=ws#%F0%9F%8C%90+Unknown+-+Oregon+%F0%9F%9F%A0+200+%E2%9A%A1n%2Fa+VLESS
 http://51.17.154.141:8080#%F0%9F%8C%90+Unknown+-+Brandenburg+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.44.97.6:55774#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:36755#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -105,10 +104,10 @@ http://52.47.115.41:40293#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4
 vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=chrome&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&sid=8c4907b7884b31&spx=/&type=tcp&headerType=none#%F0%9F%8C%90+Unknown+-+New+South+Wales+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 http://65.108.203.36:18080#%F0%9F%8C%90+Unknown+-+%C3%96sterg%C3%B6tland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?security=reality&encryption=none&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.aliexpress.com&sid=9b4fc5a116efd6c8#%F0%9F%8C%90+Unknown+-+Bucharest+%F0%9F%94%B4+40+%E2%9A%A1n%2Fa+VLESS
-hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?sni=tunel1.washing.help&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
+hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
 vless://5f7c3b8f-8abf-40a9-b9ac-8617d9500487@82.29.175.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&sid=e32354adc83bd772#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080?#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A11501.3KB%2Fs+SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A11501.3KB%2Fs+SS
 socks5://85.237.207.49:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A15.5KB%2Fs+SOCKS
 vless://067a6239-4c7b-4d3a-b085-9fd984a1a43b@91.199.43.135:8443?security=reality&encryption=none&pbk=Cyv34CNxbEmnx2I79xNKr2c4UqXlm8f8tJ46e2SYe1Y&headerType=&fp=chrome&type=tcp&sni=www.tgju.org&sid=e87f4f53a0b9d6#%F0%9F%8C%90+Unknown+-+Tehran+%F0%9F%9F%A1+310+%E2%9A%A14.5KB%2Fs+VLESS
 http://95.3.69.222:8080#%F0%9F%8C%90+Unknown+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
