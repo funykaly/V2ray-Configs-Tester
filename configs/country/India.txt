@@ -1,3 +1,2 @@
-trojan://MiTiVPN@151.101.159.159:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B3+India+-+Tamil+Nadu+%F0%9F%9F%A0+220+%E2%9A%A1n%2Fa+TROJAN
 socks5://206.123.156.218:10500#%F0%9F%87%AE%F0%9F%87%B3+India+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A161.6KB%2Fs+SOCKS
 socks5://206.123.156.223:6370#%F0%9F%87%AE%F0%9F%87%B3+India+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A1519.8KB%2Fs+SOCKS
