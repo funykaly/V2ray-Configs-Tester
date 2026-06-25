@@ -7,7 +7,6 @@ socks5://141.11.42.160:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%
 socks5://146.235.231.249:1080#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://188.235.142.248:1080#%F0%9F%8C%90+Unknown+-+Saratov+Oblast+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://202.148.221.58:50161#%F0%9F%8C%90+Unknown+-+Taipei+City+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://206.123.156.210:7499#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A1386.6KB%2Fs+SOCKS
 socks5://206.123.156.211:9204#%F0%9F%87%AC%F0%9F%87%A7+United+Kingdom+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:4720#%F0%9F%8C%90+Unknown+-+Maharashtra+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:6036#%F0%9F%8C%90+Unknown+-+Valencia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
