@@ -1,5 +1,6 @@
 http://13.60.181.61:9002#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Washington+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://19e2aaa9-996a-4011-ed75-d8fd376834d0@169.244.243.245:8443?path=%2FTG%40wxgqlfx&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=us2.wxgqlfx.icu&fp=chrome&type=ws&allowInsecure=0&sni=us2.wxgqlfx.icu#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+210+%E2%9A%A158.3KB%2Fs+VLESS
+http://174.137.134.182:2999#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.188.53.175:430#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+HTTP
 http://18.222.132.180:15656#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.222.132.180:56370#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
