@@ -1,5 +1,5 @@
 vless://8062e5ed-20b0-4304-b90b-e1652cfc72fa@103.100.158.25:443?security=reality&encryption=none&pbk=Z_vc5I8x9a1herQ7jaX5noyWMHv_aqihSKLAmhS2iwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=59b1745606085b9c#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A112.2KB%2Fs+VLESS
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A12.4KB%2Fs+TROJAN
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A12.4KB%2Fs+TROJAN
 trojan://114514@103.219.194.43:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 trojan://humanity@104.18.152.210:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 http://104.194.148.188:3128#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1346.6KB%2Fs+HTTP
@@ -34,6 +34,7 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&securi
 http://16.52.76.191:33043#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:50935#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:53097#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
+http://16.62.123.236:29018#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.62.229.137:805#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 trojan://114514@172.236.154.50:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A0+220+%E2%9A%A18.9KB%2Fs+TROJAN
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%9F%A1+310+%E2%9A%A1259.4KB%2Fs+VLESS
@@ -62,7 +63,7 @@ http://27.254.99.183:8118#%F0%9F%8C%90+Unknown+-+Bangkok+%F0%9F%94%B4+120+%E2%9A
 http://3.211.120.181:443#%F0%9F%8C%90+Unknown+-+Virginia+%F0%9F%94%B4+120+%E2%9A%A1885.5KB%2Fs+HTTP
 vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.33:443?security=reality&encryption=none&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&sid=7a3f9e2b1c8d4f6a#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A117.8KB%2Fs+VLESS
 vless://9c3f61dc-ab33-48d3-b829-bc1cad0f31f7@34.35.11.97:24822?security=reality&encryption=none&pbk=tZ1ioVafOFT_0m30INlvEDNFSj6tcNnG21aJQRy3zVo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=32a8bfa2939125#%F0%9F%8C%90+Unknown+-+Gauteng+%F0%9F%9F%A1+310+%E2%9A%A14.5KB%2Fs+VLESS
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&security=reality&sid=247fd6dab1a34a48&sni=web.max.ru&type=tcp#%F0%9F%8C%90+Unknown+-+Almaty+%F0%9F%9F%A1+310+%E2%9A%A174.9KB%2Fs+VLESS
+vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443?security=reality&encryption=none&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=247fd6dab1a34a48#%F0%9F%8C%90+Unknown+-+Almaty+%F0%9F%9F%A1+310+%E2%9A%A174.9KB%2Fs+VLESS
 trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+TROJAN
 vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none&fp=&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&security=reality&sid=7ef3a8ab2886&sni=amazon.com&type=tcp#%F0%9F%8C%90+Unknown+-+Seoul+%F0%9F%9F%A0+200+%E2%9A%A14.6KB%2Fs+VLESS
 socks5://43.228.124.184:8888#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A131.1KB%2Fs+SOCKS
