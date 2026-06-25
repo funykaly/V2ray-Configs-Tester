@@ -1,6 +1,6 @@
 vless://03d73bc8-01a9-46a7-90b9-3d27065ed328@101.33.45.201:54321?fp=chrome&host=c.eoa.ccwu.cc&path=/&security=tls&sni=c.eoa.ccwu.cc&type=ws#%F0%9F%8C%90+Unknown+-+South+East+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 vless://8062e5ed-20b0-4304-b90b-e1652cfc72fa@103.100.158.25:443?security=reality&encryption=none&pbk=Z_vc5I8x9a1herQ7jaX5noyWMHv_aqihSKLAmhS2iwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=59b1745606085b9c#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A112.2KB%2Fs+VLESS
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A12.4KB%2Fs+TROJAN
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%94%B4+120+%E2%9A%A12.4KB%2Fs+TROJAN
 trojan://114514@103.219.194.43:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=0&allowInsecure=0&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 trojan://humanity@104.18.152.210:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A0+150+%E2%9A%A1n%2Fa+TROJAN
 http://104.194.148.188:3128#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1346.6KB%2Fs+HTTP
@@ -8,7 +8,6 @@ vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.253.175.16:443?path=%2F&securit
 http://116.101.9.20:2031#%F0%9F%8C%90+Unknown+-+L%E1%BA%A1ng+S%C6%A1n+Province+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=tcp#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A0+200+%E2%9A%A16.7KB%2Fs+VLESS
 http://13.38.27.183:25465#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://13.53.139.178:20000#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.53.139.178:28738#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:33365#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IvCfjJAgVW5rbm93biAtIFNlb3VsIPCfn6IgNDIwIOKaoTQuNktCL3MgVk1FU1MiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -45,6 +44,7 @@ http://16.52.81.236:50935#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A
 http://16.52.81.236:53097#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
 http://16.62.123.236:29018#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.62.229.137:805#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+hy2://g00teh7gcl67irgs@167.172.93.124:443/?sni=167.172.93.124#%F0%9F%8C%90+Unknown+-+Sabah+%F0%9F%9F%A0+200+%E2%9A%A11963.9KB%2Fs+HYSTERIA2
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoi8J+MkCBVbmtub3duIC0gVG9reW8g8J+foiA0MjAg4pqhMTUuNktCL3MgVk1FU1MiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 trojan://114514@172.236.154.50:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A0+220+%E2%9A%A18.9KB%2Fs+TROJAN
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%9F%A1+310+%E2%9A%A1259.4KB%2Fs+VLESS
@@ -58,7 +58,6 @@ http://188.166.12.117:3128#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120
 vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@198.255.96.50:443?sni=yahoo.com&type=tcp&sid=cd8971da5a669139&flow=xtls-rprx-vision&fp=chrome&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&nonce=pH2Z0XZB#%F0%9F%8C%90+Unknown+-+Colorado+%F0%9F%9F%A1+310+%E2%9A%A111.2KB%2Fs+VLESS
 vless://20ae4b98-91bf-4892-80c8-4dee85515a54@199.181.197.60:443?path=/&security=tls&encryption=none&insecure=0&host=ez-9abab7.ezaccess1451dbd.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-9abab7.ezaccess1451dbd.workers.dev#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%9F%A1+310+%E2%9A%A12674.9KB%2Fs+VLESS
 socks5://206.123.156.211:9204#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
-socks5://206.123.156.213:4720#%F0%9F%8C%90+Unknown+-+Maharashtra+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.221:17164#%F0%9F%8C%90+Unknown+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.224:5061#%F0%9F%8C%90+Unknown+-+Uttar+Pradesh+%F0%9F%94%B4+120+%E2%9A%A150.7KB%2Fs+SOCKS
 socks5://206.123.156.227:5434#%F0%9F%8C%90+Unknown+-+Karnataka+%F0%9F%94%B4+120+%E2%9A%A147.9KB%2Fs+SOCKS
