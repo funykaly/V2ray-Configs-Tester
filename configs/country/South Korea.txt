@@ -1,1 +1,2 @@
 http://1.231.81.166:3128#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%94%B4+120+%E2%9A%A110.0KB%2Fs+HTTP
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?encryption=none&flow=xtls-rprx-vision-udp443&type=raw&headerType=none&security=tls&fp=chrome&sni=ako.pagate.top#%F0%9F%87%B0%F0%9F%87%B7+South+Korea+-+Seoul+%F0%9F%9F%A1+350+%E2%9A%A1n%2Fa+VLESS
