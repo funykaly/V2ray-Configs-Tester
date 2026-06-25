@@ -1,4 +1,5 @@
 http://13.60.181.61:9002#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Washington+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.180.151:80?host=max-gb1.global.ssl.fastly.net&path=/?https://t.me/WangCai2🇨🇳&type=ws#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Bavaria+%F0%9F%9F%A1+270+%E2%9A%A110.1KB%2Fs+VLESS
 vless://19e2aaa9-996a-4011-ed75-d8fd376834d0@169.244.243.245:8443?path=%2FTG%40wxgqlfx&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=us2.wxgqlfx.icu&fp=chrome&type=ws&allowInsecure=0&sni=us2.wxgqlfx.icu#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+210+%E2%9A%A158.3KB%2Fs+VLESS
 http://174.137.134.182:2999#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.188.53.175:430#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A16.8KB%2Fs+HTTP
@@ -11,3 +12,4 @@ http://3.19.213.118:43458#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%9
 socks4://45.79.203.254:48388#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Georgia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@5.78.163.117:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Oregon+%F0%9F%9F%A1+310+%E2%9A%A125.6KB%2Fs+VLESS
 vless://19e2aaa9-996a-4011-ed75-d8fd376834d0@81.22.132.183:443?path=%2FTG%40wxgqlfx&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=us2.wxgqlfx.icu&fp=chrome&type=ws&allowInsecure=0&sni=us2.wxgqlfx.icu#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+210+%E2%9A%A1164.4KB%2Fs+VLESS
+vless://deffbfcd-0626-365b-ff92-9b93f2fd6459@rvg-production-1ab7.up.railway.app:443?path=%2Fws%2Fdeffbfcd-0626-365b-ff92-9b93f2fd6459&security=tls&encryption=none&insecure=1&host=rvg-production-1ab7.up.railway.app&type=ws&allowInsecure=1&sni=rvg-production-1ab7.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%9F%A0+150+%E2%9A%A1259.3KB%2Fs+VLESS
