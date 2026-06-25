@@ -30,7 +30,7 @@ vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.160.151:80?host=max-gb1.glo
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.161.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90+Unknown+-+Saxony+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.253.151:80?&type=ws&headerType=none&host=max-gb1.global.ssl.fastly.net&path=%2F#%F0%9F%8C%90+Unknown+-+Bavaria+%F0%9F%9F%A1+270+%E2%9A%A132.8KB%2Fs+VLESS
 vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.255.151:80?allowInsecure=1&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=/#%F0%9F%8C%90+Unknown+-+Bavaria+%F0%9F%9F%A1+270+%E2%9A%A124.5KB%2Fs+VLESS
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?encryption=none&security=none&type=grpc#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%9F%A0+140+%E2%9A%A1n%2Fa+VLESS
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%9F%A0+140+%E2%9A%A1n%2Fa+VLESS
 http://16.52.76.191:33043#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:50935#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://16.52.81.236:53097#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A113.3KB%2Fs+HTTP
