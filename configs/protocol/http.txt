@@ -37,7 +37,6 @@ http://13.60.163.108:55212#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+%F0%9F%94
 http://13.60.181.61:33365#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:9002#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Washington+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://138.124.110.211:3128#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A11172.0KB%2Fs+HTTP
-http://143.198.239.98:1047#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://144.31.73.173:3128#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%94%B4+120+%E2%9A%A1161.9KB%2Fs+HTTP
 http://15.160.116.45:21446#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.160.116.45:29290#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
