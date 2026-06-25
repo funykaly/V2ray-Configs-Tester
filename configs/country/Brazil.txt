@@ -1,2 +1,1 @@
-trojan://MiTiVPN@151.101.177.177:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+Rio+de+Janeiro+%F0%9F%9F%A0+220+%E2%9A%A1n%2Fa+TROJAN
 socks5://92.113.32.17:1081#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
