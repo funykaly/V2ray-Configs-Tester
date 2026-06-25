@@ -239,7 +239,6 @@ hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=sala
 vless://5f7c3b8f-8abf-40a9-b9ac-8617d9500487@82.29.175.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&sid=e32354adc83bd772#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A1n%2Fa+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A11501.3KB%2Fs+SS
-vless://067a6239-4c7b-4d3a-b085-9fd984a1a43b@91.199.43.135:8443?security=reality&encryption=none&pbk=Cyv34CNxbEmnx2I79xNKr2c4UqXlm8f8tJ46e2SYe1Y&headerType=&fp=chrome&type=tcp&sni=www.tgju.org&sid=e87f4f53a0b9d6#%F0%9F%8C%90+Unknown+-+Tehran+%F0%9F%9F%A1+310+%E2%9A%A14.5KB%2Fs+VLESS
 socks5://92.113.32.17:1081#%F0%9F%87%A7%F0%9F%87%B7+Brazil+-+S%C3%A3o+Paulo+%F0%9F%94%B4+120+%E2%9A%A110.1KB%2Fs+SOCKS
 http://95.3.69.222:8080#%F0%9F%87%B9%F0%9F%87%B7+T%C3%BCrkiye+-+Istanbul+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 vless://f6f44df3-d229-4dd8-a944-e7bc3a4c6b94@96.62.214.87:29745?security=reality&type=tcp&sni=www.google.com&fp=random&sid=c3&pbk=zSOPQOHAiacl2VMETsLXTE_Gln5ECllb6YKy1oyv1V0&encryption=none#%F0%9F%87%AF%F0%9F%87%B5+Japan+-+Tokyo+%F0%9F%9F%A1+310+%E2%9A%A17.9KB%2Fs+VLESS
