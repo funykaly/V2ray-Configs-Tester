@@ -1,4 +1,5 @@
 http://138.124.110.211:3128#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A11172.0KB%2Fs+HTTP
+hy2://g00teh7gcl67irgs@167.172.93.124:443/?sni=167.172.93.124#%F0%9F%87%B2%F0%9F%87%BE+Malaysia+-+Sabah+%F0%9F%9F%A0+200+%E2%9A%A11963.9KB%2Fs+HYSTERIA2
 http://185.191.239.248:3128#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A12486.8KB%2Fs+HTTP
 http://188.166.12.117:3128#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%E2%9A%A12293.8KB%2Fs+HTTP
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=nl.esimpson.org#%F0%9F%87%B3%F0%9F%87%B1+The+Netherlands+-+North+Brabant+%F0%9F%9F%A0+200+%E2%9A%A13829.2KB%2Fs+HYSTERIA2
