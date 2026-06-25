@@ -9,7 +9,6 @@ http://116.101.9.20:2031#%F0%9F%8C%90+Unknown+-+L%E1%BA%A1ng+S%C6%A1n+Province+%
 vless://c6508e59-dd68-4dc0-b14f-3192e84ef843@13.231.185.74:47381?encryption=none&flow=xtls-rprx-vision&fp=&pbk=kiMGo34R7wN3bHFbY_6MqIHePd7rlnOkxGCt-Ek1Ej0&security=reality&sid=67e2075367998314&sni=www.yahoo.com&type=tcp#%F0%9F%8C%90+Unknown+-+Tokyo+%F0%9F%9F%A0+200+%E2%9A%A16.7KB%2Fs+VLESS
 http://13.53.139.178:28738#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://13.60.181.61:33365#%F0%9F%8C%90+Unknown+-+Stockholm+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJuYXRpb24iOiIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IvCfjJAgVW5rbm93biAtIFNlb3VsIPCfn6IgNDIwIOKaoTQuNktCL3MgVk1FU1MiLCJzY3kiOiJhdXRvIiwic2VydmVyUG9ydCI6MCwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 socks5://134.209.98.206:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A19.0KB%2Fs+SOCKS
 http://138.124.110.211:3128#%F0%9F%8C%90+Unknown+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A11172.0KB%2Fs+HTTP
 vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@138.124.115.84:443?security=reality&encryption=none&pbk=m0laydpddP-MhAgDbMB_QGrSk4-nrIvDSoIHK_Q8Uy4&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=a796a1f52722b3a5#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
@@ -51,7 +50,6 @@ http://16.62.229.137:805#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%94%B4+120+%
 hy2://g00teh7gcl67irgs@167.172.93.124:443/?sni=167.172.93.124#%F0%9F%8C%90+Unknown+-+Sabah+%F0%9F%9F%A0+200+%E2%9A%A11963.9KB%2Fs+HYSTERIA2
 trojan://114514@172.236.154.50:443?security=tls&sni=tjaaa.hhllfly.kdns.fr&insecure=1&allowInsecure=1&type=ws&host=tjaaa.hhllfly.kdns.fr&path=%2F#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%9F%A0+220+%E2%9A%A18.9KB%2Fs+TROJAN
 vless://10a6b923-e349-4594-92bb-d81a6245aaec@172.67.74.10:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#%F0%9F%8C%90+Unknown+-+Ontario+%F0%9F%9F%A1+310+%E2%9A%A1259.4KB%2Fs+VLESS
-http://174.137.134.182:2999#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1978.3KB%2Fs+HTTP
 http://178.156.224.42:3128#%F0%9F%8C%90+Unknown+-+New+York+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.170.25.193:3376#%F0%9F%8C%90+Unknown+-+England+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://18.222.132.180:4893#%F0%9F%8C%90+Unknown+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -98,11 +96,8 @@ socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%
 socks5://45.77.172.250:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://51.34.28.236:13749#%F0%9F%8C%90+Unknown+-+Zurich+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://51.84.101.19:36755#%F0%9F%8C%90+Unknown+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://52.47.115.41:18754#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-vless://3e62a6f1-f8cb-40eb-9c33-fc4ed39a080e@54.253.37.164:23951?type=tcp&encryption=none&security=reality&pbk=FGnWfD70nPQhiMZUQETB_mKaR-J_2DonpOpy9eqQ_F0&fp=chrome&sni=www.tesla.com&sid=8c4907b7884b31&spx=/&flow=xtls-rprx-vision#%F0%9F%8C%90+Unknown+-+New+South+Wales+%F0%9F%9F%A1+310+%E2%9A%A1n%2Fa+VLESS
 socks5://74.1.206.48:50161#%F0%9F%8C%90+Unknown+-+Taiwan+%F0%9F%94%B4+120+%E2%9A%A16.7KB%2Fs+SOCKS
 hysteria2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443?security=tls&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ&insecure=0&sni=tunel1.washing.help#%F0%9F%8C%90+Unknown+-+Hesse+%F0%9F%9F%A0+190+%E2%9A%A1n%2Fa+HYSTERIA2
-vless://5f7c3b8f-8abf-40a9-b9ac-8617d9500487@82.29.175.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=zMuLYURvrPXeNU39XaN9FZN5PUDQdyffei01IugpZwk&sid=e32354adc83bd772#%F0%9F%8C%90+Unknown+-+%C3%8Ele-de-France+%F0%9F%9F%A1+270+%E2%9A%A1n%2Fa+VLESS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A11501.3KB%2Fs+SS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%F0%9F%8C%90+Unknown+-+North+Holland+%F0%9F%9F%A2+420+%E2%9A%A11051.2KB%2Fs+SS
 vless://599907db-9e9e-4c50-b9f1-d1b42cdec21f@89.208.228.221:5445?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=qq&sni=ads.x5.ru&pbk=cSQW3a_64jadi8uInU7XKZzTDyYKBxWj7c5MgIesIws&sid=bad5722c72a0&spx=/#%F0%9F%8C%90+Unknown+-+Moscow+%F0%9F%9F%A1+280+%E2%9A%A12.4KB%2Fs+VLESS
