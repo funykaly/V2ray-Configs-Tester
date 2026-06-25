@@ -53,6 +53,7 @@ http://15.161.131.175:49255#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%
 http://15.161.131.175:8818#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:11060#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:22401#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
+http://15.161.228.22:28320#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.228.22:443#%F0%9F%8C%90+Unknown+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.59.54:10159#%F0%9F%87%B8%F0%9F%87%AA+Sweden+-+Stockholm+County+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://15.161.59.54:20803#%F0%9F%87%AE%F0%9F%87%B9+Italy+-+Lombardy+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
@@ -142,11 +143,10 @@ http://35.180.75.159:47140#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+
 http://35.180.75.159:8174#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.180.75.159:8800#%F0%9F%87%AB%F0%9F%87%B7+France+-+%C3%8Ele-de-France+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 http://35.182.12.78:27693#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
-http://35.183.127.162:59384#%F0%9F%87%A8%F0%9F%87%A6+Canada+-+Ontario+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 trojan://NAdtbpuyJXPH=CfKmdBqD2YVbzdvwAtuxw@38.60.252.118:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8C%90+Unknown+-+Hanoi+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+TROJAN
 socks5://43.228.124.184:8888#%F0%9F%8C%90+Unknown+-+North+West+%F0%9F%94%B4+120+%E2%9A%A131.1KB%2Fs+SOCKS
 socks5://45.194.33.12:30001#%F0%9F%8C%90+Unknown+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A18.9KB%2Fs+SOCKS
-socks5://45.77.172.250:1080#%F0%9F%8C%90+Unknown+-+South+West+%F0%9F%94%B4+120+%E2%9A%A120.5KB%2Fs+SOCKS
+socks5://45.77.172.250:1080#%F0%9F%87%B8%F0%9F%87%AC+Singapore+-+South+West+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks4://45.79.203.254:48388#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Georgia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://47.238.92.79:1090#%F0%9F%87%AD%F0%9F%87%B0+Hong+Kong+-+Kowloon+%F0%9F%94%B4+120+%E2%9A%A17.9KB%2Fs+SOCKS
 http://51.17.154.141:20786#%F0%9F%87%AE%F0%9F%87%B1+Israel+-+Tel+Aviv+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
