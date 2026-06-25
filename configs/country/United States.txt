@@ -5,6 +5,7 @@ http://18.222.132.180:15656#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F
 http://18.222.132.180:56370#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks5://206.123.156.209:5011#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Missouri+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 socks5://206.123.156.213:5208#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+California+%F0%9F%94%B4+120+%E2%9A%A197.7KB%2Fs+SOCKS
+socks5://206.123.156.231:7024#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Arizona+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 http://3.19.213.118:43458#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Ohio+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+HTTP
 socks4://45.79.203.254:48388#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Georgia+%F0%9F%94%B4+120+%E2%9A%A1n%2Fa+SOCKS
 vless://d6695105-8e40-4a45-a87e-d3cf561c9fa4@5.78.163.117:55555?security=reality&encryption=none&pbk=XPuLE49PtDeixzwOmEHuMFSZexYDTQifZ7s99w5e4QY&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=880eeeef4927eed5#%F0%9F%87%BA%F0%9F%87%B8+United+States+-+Oregon+%F0%9F%9F%A1+310+%E2%9A%A125.6KB%2Fs+VLESS
