@@ -1,1 +1,0 @@
-trojan://MiTiVPN@151.101.235.235:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%BF+New+Zealand+-+Wellington+Region+%F0%9F%9F%A0+220+%E2%9A%A1n%2Fa+TROJAN
